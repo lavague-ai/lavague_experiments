@@ -1,0 +1,1492 @@
+retriever_recursive_fusion,get_retriever_code_fusion
+"<div class=""border-top border-md-left mx-md-3 mb-3 mb-md-0""></div>
+
+  <a class=""btn-mktg home-campaign-enterprise btn-muted-mktg"" data-analytics-event=""{&quot;category&quot;:&quot;Start a free enterprise trial&quot;,&quot;action&quot;:&quot;click to Start a free enterprise trial&quot;,&quot;label&quot;:&quot;ref_cta:Start a free enterprise trial;&quot;}"" href=""/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&amp;ref_loc=Home+campaign+footer&amp;ref_page=%2F"" data-test-selector=""start-trial-button"">
+  Start a free enterprise trial
+  
+  <svg xmlns=""http://www.w3.org/2000/svg"" class=""octicon arrow-symbol-mktg"" width=""16"" height=""16"" viewBox=""0 0 16 16"" fill=""none""><path fill=""currentColor"" d=""M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z""></path><path class=""octicon-chevrow-stem"" stroke=""currentColor"" d=""M1.75 8H11"" stroke-width=""1.5"" stroke-linecap=""round""></path></svg>
+
+</a>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <div class=""position-relative z-2 user-select-none home-globe-scene js-webgl-globe-data"">
+  <div class=""home-globe-container home-globe-container-webgl mx-auto""> <div class=""sub-nav-mktg-ctas ml-lg-3"">
+            <a class=""btn-mktg ml-lg-2 mt-2 mt-lg-0 d-block d-lg-inline-block btn-muted-mktg"" data-analytics-event=""{&quot;category&quot;:&quot;Homepage&quot;,&quot;action&quot;:&quot;click to Start a free enterprise trial&quot;,&quot;label&quot;:&quot;ref_cta:Start a free enterprise trial;ref_loc:Homepage;&quot;}"" href=""/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&amp;ref_loc=homepage+sticky+nav&amp;ref_page=%2F"">
+  Start a free enterprise trial
+  
+  <svg xmlns=""http://www.w3.org/2000/svg"" class=""octicon arrow-symbol-mktg"" width=""16"" height=""16"" viewBox=""0 0 16 16"" fill=""none""><path fill=""currentColor"" d=""M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z""></path><path class=""octicon-chevrow-stem"" stroke=""currentColor"" d=""M1.75 8H11"" stroke-width=""1.5"" stroke-linecap=""round""></path></svg>
+
+</a>
+            <a class=""btn-mktg ml-lg-2 mt-2 mt-lg-0 d-block d-lg-inline-block"" data-analytics-event=""{&quot;category&quot;:&quot;Homepage&quot;,&quot;action&quot;:&quot;click to Sign up for GitHub&quot;,&quot;label&quot;:&quot;ref_cta:Sign up for GitHub;ref_loc:Homepage;&quot;}"" href=""/join?ref_cta=Sign+up+for+GitHub&amp;ref_loc=homepage+sticky+nav&amp;ref_page=%2F&amp;source=homepage-sticky-nav"">
+  Sign up for GitHub
+  
+  <svg xmlns=""http://www.w3.org/2000/svg"" class=""octicon arrow-symbol-mktg"" width=""16"" height=""16"" viewBox=""0 0 16 16"" fill=""none""><path fill=""currentColor"" d=""M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z""></path><path class=""octicon-chevrow-stem"" stroke=""currentColor"" d=""M1.75 8H11"" stroke-width=""1.5"" stroke-linecap=""round""></path></svg>
+
+</a>
+        </div>
+    </div>
+</div>
+</div>
+
+  <div class=""home-campaign-productivity js-section overflow-hidden px-3 pb-8 pt-5"" data-color-mode=""dark"" data-light-theme=""light"" data-dark-theme=""dark"" id=""productivity"">
+  <div class=""container-xl"">
+    
+  <div class=""d-flex js-build-in-trigger position-relative"" data-build-in-stagger=""100"" data-build-margin-bottom=""20"">
+    <div class=""col-1 d-flex flex-column flex-items-center"">
+      <div class=""mb-4 position-relative home-campaign-glowing-icon"">
+        <svg aria-hidden=""true"" height=""24"" viewBox=""0 0 24 24"" version=""1.1"" width=""24"" data-view-component=""true"" class=""octicon octicon-briefcase"">
+    <path d=""M7.5 1.75C7.5.784 8.284 0 9.25 0h5.5c.966 0 1.75.784 1.75 1.75V4h4.75c.966 0 1.75.784 1.75 1.75v14.5A1.75 1.75 0 0 1 21.25 22H2.75A1.75 1.75 0 0 1 1 20.25V5.75C1 4.784 1.784 4 2.75 4H7.5Zm-5 10.24v8.26c0 .138.112.25.25.25h18.5a.25.25 0 0 0 .25-.25v-8.26A4.235 4.235 0 0 1 18.75 13H5.25a4.235 4.235 0 0 1-2.75-1.01Zm19-3.24v-3a.25.25 0 0 0-.25-.25H2.75a.25.25 0 0 0-.25.25v3a2.75 2.75 0 0 0 2.75 2.75h13.5a2.75 2.75 0 0 0 2.75-2.75Zm-6.5-7a.25.25 0 0 0-.25-.25h-5.5a.25.25 0 0 0-.25.25V4h6Z""></path>
+</svg>
+        <span class=""position-absolute left-0 top-0 height-full width-full home-campaign-glowing-icon-glow circle z-n1"" style=""background-color: var(--mktg-accent-primary); filter: blur(18px);""></span>
+      </div> <div class=""border-top border-md-left mx-md-3 mb-3 mb-md-0""></div>
+
+  <a class=""btn-mktg home-campaign-enterprise btn-muted-mktg"" data-analytics-event=""{&quot;category&quot;:&quot;Start a free enterprise trial&quot;,&quot;action&quot;:&quot;click to Start a free enterprise trial&quot;,&quot;label&quot;:&quot;ref_cta:Start a free enterprise trial;&quot;}"" href=""/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&amp;ref_loc=Home+campaign+hero&amp;ref_page=%2F"" data-test-selector=""start-trial-button"">
+  Start a free enterprise trial
+  
+  <svg xmlns=""http://www.w3.org/2000/svg"" class=""octicon arrow-symbol-mktg"" width=""16"" height=""16"" viewBox=""0 0 16 16"" fill=""none""><path fill=""currentColor"" d=""M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z""></path><path class=""octicon-chevrow-stem"" stroke=""currentColor"" d=""M1.75 8H11"" stroke-width=""1.5"" stroke-linecap=""round""></path></svg>
+
+</a>
+</div>
+
+
+        <div class=""my-8 my-md-10 build-in-animate col-12"">
+          <p class=""d-block color-fg-subtle f3-mktg"">Trusted by the world’s leading&nbsp;organizations&nbsp;↘︎</p>
+
+          <div class=""d-flex flex-wrap flex-justify-around flex-md-justify-between flex-items-center col-12 col-lg-11"">
+            <img src=""https://github.githubassets.com/assets/3m-0151c2fda0ce.svg"" alt=""3M logo"" height=""48"" class=""my-3"">
+            <img src=""https://github.githubassets.com/assets/kpmg-c249f20c5173.svg"" alt=""KPMG logo"" height=""40"" class=""my-3"">
+            <div class=""col-12 d-sm-none""></div>
+            <img src=""https://github.githubassets.com/assets/mercedes-fcf97d2d6ec4.svg"" alt=""Mercedes-Benz logo"" height=""44"" class=""my-3"">
+            <img src=""https://github.githubassets.com/assets/sap-96248a56d312.svg"" alt=""SAP logo"" height=""44"" class=""my-3"">
+            <div class=""col-12 d-none d-sm-block d-md-none""></div>
+            <div class=""col-12 d-sm-none""></div>
+            <img src=""https://github.githubassets.com/assets/pg-f1f19955c4e4.svg"" alt=""P&amp;G logo"" height=""32"" class=""my-3"">
+            <img src=""https://github.githubassets.com/assets/telus-df0c2109df99.svg"" alt=""Telus logo"" height=""32"" class=""my-3"">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class=""position-absolute"">
+    <div class=""sub-nav-mktg js-toggler-container z-3 js-position-sticky top-0 width-full init-hidden scrollnav is-placeholder"" data-original-top=""0px"" style=""visibility: hidden; display: none; height: 80px; top: 0px !important;""></div><div class=""sub-nav-mktg js-toggler-container z-3 js-sticky js-position-sticky top-0 width-full init-hidden scrollnav"" data-original-top=""0px"" style=""top: 0px !important; position: static;""> ","s=""btn-mktg home-campaign-enterprise btn-muted-mktg"" data-analytics-event=""{&quot;category&quot;:&quot;Start a free enterprise trial&quot;,&quot;action&quot;:&quot;click to Start a free enterprise trial&quot;,&quot;label&quot;:&quot;ref_cta:Start a free enterprise trial;&quot;}"" href=""/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&amp;ref_loc=Home+campaign+hero&amp;ref_page=%2F"" data-test-selector=""start-trial-button"">
+  Start a free enterprise trial
+  
+  <svg xmlns=""http://www.w3.org/2000/svg"" class=""octicon arrow-symbol-mktg"" width=""16"" height=""16"" viewBox=""0 0 16 16"" fill=""none""><path fill=""currentColor"" d=""M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z""></path><path class=""octicon-chevrow-stem"" stroke=""currentColor"" d=""M1.75 8H11"" stroke-width=""1.5"" stroke-linecap=""round""></path></svg>
+
+</a>
+</div> ass=""sub-nav-mktg-ctas ml-lg-3"">
+            <a class=""btn-mktg ml-lg-2 mt-2 mt-lg-0 d-block d-lg-inline-block btn-muted-mktg"" data-analytics-event=""{&quot;category&quot;:&quot;Homepage&quot;,&quot;action&quot;:&quot;click to Start a free enterprise trial&quot;,&quot;label&quot;:&quot;ref_cta:Start a free enterprise trial;ref_loc:Homepage;&quot;}"" href=""/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&amp;ref_loc=homepage+sticky+nav&amp;ref_page=%2F"">
+  Start a free enterprise trial
+  
+  <svg xmlns=""http://www.w3.org/2000/svg"" class=""octicon arrow-symbol-mktg"" width=""16"" height=""16"" viewBox=""0 0 16 16"" fill=""none""><path fill=""currentColor"" d=""M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z""></path><path class=""octicon-chevrow-stem"" stroke=""currentColor"" d=""M1.75 8H11"" stroke-width=""1.5"" stroke-linecap=""round""></path></svg>
+
+</a>
+            <a c home-campaign-enterprise btn-muted-mktg"" data-analytics-event=""{&quot;category&quot;:&quot;Start a free enterprise trial&quot;,&quot;action&quot;:&quot;click to Start a free enterprise trial&quot;,&quot;label&quot;:&quot;ref_cta:Start a free enterprise trial;&quot;}"" href=""/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&amp;ref_loc=Home+campaign+footer&amp;ref_page=%2F"" data-test-selector=""start-trial-button"">
+  Start a free enterprise trial
+  
+  <svg xmlns=""http://www.w3.org/2000/svg"" class=""octicon arrow-symbol-mktg"" width=""16"" height=""16"" viewBox=""0 0 16 16"" fill=""none""><path fill=""currentColor"" d=""M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z""></path><path class=""octicon-chevrow-stem"" stroke=""currentColor"" d=""M1.75 8H11"" stroke-width=""1.5"" stroke-linecap=""round""></path></svg>
+
+</a>
+</div>
+
+        </div> "
+"<body class=""flex flex-col min-h-screen bg-white dark:bg-gray-950 text-black HomePage"">
+		
+
+<div class=""flex min-h-screen flex-col"">
+	<div class=""SVELTE_HYDRATER contents"" data-props=""{&quot;classNames&quot;:&quot;!border-transparent&quot;,&quot;isWide&quot;:false,&quot;isZh&quot;:false}"" data-target=""MainHeader""><header class=""border-b border-gray-100 !border-transparent""><div class=""w-full px-4 container flex h-16 items-center""><div class=""flex flex-1 items-center""><a class=""mr-5 flex flex-none items-center lg:mr-6"" href=""/""><img alt=""Hugging Face's logo"" class=""w-7 md:mr-2"" src=""/front/assets/huggingface_logo-noborder.svg""> <span class=""hidden whitespace-nowrap text-lg font-bold md:block"">Hugging Face</span></a> <div class=""relative flex-1 lg:max-w-sm mr-2 sm:mr-4 md:mr-3 xl:mr-6""><input autocomplete=""off"" class=""w-full dark:bg-gray-950 pl-8 form-input-alt h-9 pr-3 focus:shadow-xl "" name="""" placeholder=""Search models, datasets, users..."" spellcheck=""false"" type=""text""> <svg class=""absolute left-2.5 text-gray-400 top-1/2 transform -translate-y-1/2"" xmlns=""http://www.w3.org/2000/svg"" xmlns:xlink=""http://www.w3.org/1999/xlink"" aria-hidden=""true"" focusable=""false"" role=""img"" width=""1em"" height=""1em"" preserveAspectRatio=""xMidYMid meet"" viewBox=""0 0 32 32""><path d=""M30 28.59L22.45 21A11 11 0 1 0 21 22.45L28.59 30zM5 14a9 9 0 1 1 9 9a9 9 0 0 1-9-9z"" fill=""currentColor""></path></svg> </div> <div class=""mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400"">
+			<span class=""truncate"">Updated
+				<time datetime=""2024-03-19T23:41:01"" title=""Tue, 19 Mar 2024 23:41:01 GMT"">6 days ago</time></span>
+			<span class=""px-1.5 text-gray-300"">• </span>
+				<svg class=""flex-none w-3 text-gray-400 mr-0.5"" xmlns=""http://www.w3.org/2000/svg"" xmlns:xlink=""http://www.w3.org/1999/xlink"" aria-hidden=""true"" focusable=""false"" role=""img"" width=""1em"" height=""1em"" viewBox=""0 0 32 32""><path fill=""currentColor"" d=""M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z""></path></svg>
+				6
+			<span class=""px-1.5 text-gray-300"">• </span>
+				<svg class=""flex-none w-3 text-gray-400 mr-1"" xmlns=""http://www.w3.org/2000/svg"" xmlns:xlink=""http://www.w3.org/1999/xlink"" aria-hidden=""true"" focusable=""false"" role=""img"" width=""1em"" height=""1em"" preserveAspectRatio=""xMidYMid meet"" viewBox=""0 0 32 32"" fill=""currentColor""><path d=""M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z""></path></svg>
+				60
+			</div></a></article><article class=""overview-card-wrapper group/repo white ""><a class=""block p-2"" href=""/datasets/ShimizuYuki/Marvel_network""><header class=""flex items-center mb-0.5"" title=""ShimizuYuki/Marvel_network"">
+			<h4 class=""text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-red-600 text-smd"">ShimizuYuki/Marvel_network</h4>
+			</header>
+		<div class=""mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400"">
+			<span class=""truncate"">Updated
+				<time datetime=""2024-03-18T17:08:19"" title=""Mon, 18 Mar 2024 17:08:19 GMT"">7 days ago</time></span>
+			<span class=""px-1.5 text-gray-300"">• </span>
+				<svg class=""flex-none w-3 text-gray-400 mr-0.5"" xmlns=""http://www.w3.org/2000/svg"" xmlns:xlink=""http://www.w3.org/1999/xlink"" aria-hidden=""true"" focusable=""false"" role=""img"" width=""1em"" height=""1em"" viewBox=""0 0 32 32""><path fill=""currentColor"" d=""M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z""></path></svg>
+				127
+			<span class=""px-1.5 text-gray-300"">• </span>
+				<svg class=""flex-none w-3 text-gray-400 mr-1"" xmlns=""http://www.w3.org/2000/svg"" xmlns:xlink=""http://www.w3.org/1999/xlink"" aria-hidden=""true"" focusable=""false"" role=""img"" width=""1em"" height=""1em"" preserveAspectRatio=""xMidYMid meet"" viewBox=""0 0 32 32"" fill=""currentColor""><path d=""M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z""></path></svg>
+				57
+			</div></a></article><article class=""overview-card-wrapper group/repo white ""><a class=""block p-2"" href=""/datasets/xx103/NYC_Motor_Vehicle_Collisions_and_Weather_Dataset""><header class=""flex items-center mb-0.5"" title=""xx103/NYC_Motor_Vehicle_Collisions_and_Weather_Dataset"">
+			<h4 class=""text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-red-600 text-smd"">xx103/NYC_Motor_Vehicle_Collisions_and_Weather_Dataset</h4>
+			</header> <html class=""""><head>
+		<meta charset=""utf-8"">
+		<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, user-scalable=no"">
+		<meta name=""description"" content=""We’re on a journey to advance and democratize artificial intelligence through open source and open science."">
+		<meta property=""fb:app_id"" content=""1321688464574422"">
+		<meta name=""twitter:card"" content=""summary_large_image"">
+		<meta name=""twitter:site"" content=""@huggingface"">
+		<meta property=""og:title"" content=""Hugging Face – The AI community building the future."">
+		<meta property=""og:type"" content=""website"">
+		<meta property=""og:url"" content=""https://huggingface.co/"">
+		<meta property=""og:image"" content=""https://huggingface.co/front/thumbnails/v2-2.png"">
+
+		<link rel=""stylesheet"" href=""/front/build/kube-f2de809/style.css"">
+
+		<link rel=""preconnect"" href=""https://fonts.gstatic.com"">
+		<link href=""https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&amp;display=swap"" rel=""stylesheet"">
+		<link href=""https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&amp;display=swap"" rel=""stylesheet"">
+
+		<link rel=""stylesheet"" href=""https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css"" as=""style"" onload=""this.onload=null;this.rel='stylesheet'"">
+		<noscript>
+			<link rel=""stylesheet"" href=""https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css"" />
+		</noscript>
+
+		<link rel=""canonical"" href=""https://huggingface.co/"">  <!-- HEAD_svelte-vwinwk_START --><link rel=""alternate"" type=""application/rss+xml"" href=""/blog/feed.xml"" title=""Hugging Face Blog""><!-- HEAD_svelte-vwinwk_END -->
+
+		<title>Hugging Face – The AI community building the future.</title>
+
+		<script defer="""" data-domain=""huggingface.co"" src=""/js/script.js""></script>
+		<script>
+			window.plausible =
+				window.plausible ||
+				function () {
+					(window.plausible.q = window.plausible.q || []).push(arguments);
+				};
+		</script>
+		<script type=""text/javascript"" src=""https://de5282c3ca0c.edge.sdk.awswaf.com/de5282c3ca0c/526cf06acb0d/challenge.js"" defer=""""></script>
+	<script src=""https://js.stripe.com/v3/"" async=""""></script><script src=""https://www.googletagmanager.com/gtag/js?id=G-8Q63TH4CSL"" async=""""></script><meta http-equiv=""origin-trial"" content=""AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9""></head> ","t library for the HF Hub: manage repositories from your Python runtime.</p>
+					</a>
+				
+				<a href=""/docs/tokenizers"" class=""relative col-span-1 flex h-48 flex a class=""block p-2"" href=""/datasets/YXu120/NC_Education""><header class=""flex items-center mb-0.5"" title=""YXu120/NC_Education"">
+			<h4 class=""text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-red-600 text-smd"">YXu120/NC_Education</h4>
+			</header>
+		<div class=""mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400"">
+			<span class=""truncate"">Updated
+				<time datetime=""2024-03-18T20:57:16"" title=""Mon, 18 Mar 2024 20:57:16 GMT"">7 days ago</time></span>
+			<span class=""px-1.5 text-gray-300"">• </span>
+				<svg class=""flex-none w-3 text-gray-400 mr-0.5"" xmlns=""http://www.w3.org/2000/svg"" xmlns:xlink=""http://www.w3.org/1999/xlink"" aria-hidden=""true"" focusable=""false"" role=""img"" width=""1em"" height=""1em"" viewBox=""0 0 32 32""><path fill=""currentColor"" d=""M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z""></path></svg>
+				33
+			<span class=""px-1.5 text-gray-300"">• </span>
+				<svg class=""flex-none w-3 text-gray-400 mr-1"" xmlns=""http://www.w3.org/2000/svg"" xmlns:xlink=""http://www.w3.org/1999/xlink"" aria-hidden=""true"" focusable=""false"" role=""img"" width=""1em"" height=""1em"" preserveAspectRatio=""xMidYMid meet"" viewBox=""0 0 32 32"" fill=""currentColor""><path d=""M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z""></path></svg>
+				43
+			</div></a></article></div>
+				<a href=""/datasets"" class=""self-center underline decorati a = ""kube-f2de809/"";
+			window.hubConfig = JSON.parse(`{""features"":{""signupDisabled"":false},""sshGitUrl"":""git@hf.co"",""moonHttpUrl"":""https://huggingface.co"",""captchaApiKey"":""bd5f2066-93dc-4bdd-a64b-a24646ca3859"",""captchaDisabledOnSignup"":true,""datasetsServerPublicUrl"":""https://datasets-server.huggingface.co"",""stripePublicKey"":""pk_live_x2tdjFXBCvXo2FFmMybezpeM00J6gPCAAc"",""environment"":""production"",""userAgent"":""HuggingFace (production)""}`);
+		</script>
+
+		<!-- Stripe -->
+		<script>
+			if ([""hf.co"", ""huggingface.co""].includes(window.location.hostname)) {
+				const script = document.createElement(""script"");
+				script.src = ""https://js.stripe.com/v3/"";
+				script.async = true;
+				document.head.appendChild(script);
+			}
+		</script>
+
+		<!-- Google analytics v4 -->
+		<script>
+			if ([""hf.co"", ""huggingface.co""].includes(window.location.hostname)) {
+				const script = document.createElement(""script"");
+				script.src = ""https://www.googletagmanager.com/gtag/js?id=G-8Q63TH4CSL"";
+				script.async = true;
+				document.head.appendChild(script);
+
+				window.dataLayer = window.dataLayer || [];
+				function gtag() {
+					if (window.dataLayer !== undefined) {
+						window.dataLayer.push(arguments);
+					}
+				}
+				gtag(""js"", new Date());
+				gtag(""config"", ""G-8Q63TH4CSL"", { page_path: ""/"" });
+				/// ^ See https://developers.google.com/analytics/devguides/collection/gtagjs/pages
+				gtag(""consent"", ""default"", { ad_storage: ""denied"", analytics_storage: ""denied"" });
+				/// ^ See https://developers.google.com/tag-platform/gtagjs/reference#consent
+				/// TODO: ask the user for their consent and update this with gtag('consent', 'update')
+			}
+		</script>
+	
+
+<iframe name=""__privateStripeMetricsController0960"" frameborder=""0"" allowt "
+"<li class=""last"">
+                                        <a href=""https://home.treasury.gov/footer/no-fear-act"" onclick=""ga('send', 'event', 'Outbound Links', 'Click', 'home.treasury.gov/footer/no-fear-act');"" class=""ext"" data-extlink="""">No FEAR Act Data<span class=""fa-ext extlink""><span class=""fa fa-external-link fa-external-link-alt"" aria-label=""(link is external)""></span></span></a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class=""expanded dropdown"">
+                                                                    <span class=""footer-column-header navbar-text dropdown-toggle"" data-toggle=""dropdown""><button class=""footer-mobile-icon"" tabindex=""-1"">Resolve an Issue <span class=""caret""></span></button></span>
+                        <ul block=""footernavigation_2"" class=""dropdown-menu"">
+                      <li class=""first"">
+                                        <a href=""https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter"" data-drupal-link-system-path=""node/16683"">IRS Notices and Letters</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/identity-theft-central"" data-drupal-link-system-path=""node/19616"">Identity Theft</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/privacy-disclosure/report-phishing"" data-drupal-link-system-path=""node/15745"">Phishing</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/compliance/criminal-investigation/tax-fraud-alerts"" data-drupal-link-system-path=""node/15416"">Tax Fraud</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/compliance/criminal-investigation"" data-drupal-link-system-path=""node/19091"">Criminal Investigation</a>
+              </li>
+                      <li class=""last"">
+                                        <a href=""https://www.irs.gov/compliance/whistleblower-office"" data-drupal-link-system-path=""node/7935"">Whistleblower Office</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class=""expanded dropdown"">
+                                                                    <span class=""footer-column-header navbar-text dropdown-toggle"" data-toggle=""dropdown""><button class=""footer-mobile-icon"" tabindex=""-1"">Languages <span class=""caret""></span></button></span>
+                        <ul block=""footernavigation_2"" class=""dropdown-menu"">
+                      <li class=""first"">
+                                        <a href=""https://www.irs.gov/es"">Español</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/zh-hans"">中文 (简体)</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/zh-hant"">中文 (繁體)</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/ko"">한국어</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/ru"">Pусский</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/vi"">Tiếng Việt</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/ht"">Kreyòl ayisyen</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/"">English</a>
+              </li>
+                      <li class=""last"">
+                                        <a href=""https://www.irs.gov/help/languages"" data-drupal-link-system-path=""node/80696"">Other Languages</a>
+              </li>
+        </ul>
+  
+              </li> <div class=""region region-footer-first"">
+    <nav role=""navigation"" aria-labelledby=""block-footernavigation-2-menu"" id=""block-footernavigation-2"" data-block-plugin-id=""system_menu_block:pup-footer-navigation"">
+            
+  <h2 class=""visually-hidden"" id=""block-footernavigation-2-menu"">Footer Navigation</h2>
+  
+
+        
+      <ul block=""footernavigation_2"" class=""menu menu--pup-footer-navigation nav"">
+                      <li class=""expanded dropdown first"">
+                                                                    <span class=""footer-column-header navbar-text dropdown-toggle"" data-toggle=""dropdown""><button class=""footer-mobile-icon"" tabindex=""-1"">Our Agency <span class=""caret""></span></button></span>
+                        <ul block=""footernavigation_2"" class=""dropdown-menu"">
+                      <li class=""first"">
+                                        <a href=""https://www.irs.gov/about-irs"" data-drupal-link-system-path=""node/18841"">About IRS</a>
+              </li>
+                      <li>
+                                        <a href=""https://jobs.irs.gov/"" onclick=""ga('send', 'event', 'Outbound Links', 'Click', 'jobs.irs.gov/');"">Careers</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/statistics/soi-tax-stats-irs-operations-and-budget"" data-drupal-link-system-path=""node/506"">Operations and Budget</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/statistics"" data-drupal-link-system-path=""node/19746"">Tax Statistics</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/help/let-us-help-you"" data-drupal-link-system-path=""node/16916"">Help</a>
+              </li>
+                      <li class=""last"">
+                                        <a href=""https://www.irs.gov/help/contact-your-local-irs-office"" data-drupal-link-system-path=""node/16903"">Find a Local Office</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class=""expanded dropdown"">
+                                                                    <span class=""footer-column-header navbar-text dropdown-toggle"" data-toggle=""dropdown""><button class=""footer-mobile-icon"" tabindex=""-1"">Know Your Rights <span class=""caret""></span></button></span>
+                        <ul block=""footernavigation_2"" class=""dropdown-menu"">
+                      <li class=""first"">
+                                        <a href=""https://www.irs.gov/taxpayer-bill-of-rights"" data-drupal-link-system-path=""node/19686"">Taxpayer Bill of Rights</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/taxpayer-advocate"" data-drupal-link-system-path=""node/18846"">Taxpayer Advocate Service</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/appeals"" data-drupal-link-system-path=""node/19036"">Independent Office of Appeals</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/about-irs/protecting-taxpayer-civil-rights"" data-drupal-link-system-path=""node/15736"">Civil Rights </a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/privacy-disclosure/irs-freedom-of-information"" data-drupal-link-system-path=""node/10662"">FOIA</a>
+              </li> <div class=""mega-menu-container"">
+                                                                        <li style=""display: none;""><a href=""https://www.irs.gov/filing"" class=""mobile-only-text"" id=""accessible-megamenu-file-submenu-0"" data-drupal-link-system-path=""node/19656"">Overview</a>
+                  </li>
+                                                                                <div class=""mega-menu-column"">
+                                                    <li><span class=""mega-menu-column-header"" id=""accessible-megamenu-file-submenu-1"">INFORMATION FOR…</span>
+                  </li>
+                                                                      <li><a href=""https://www.irs.gov/how-to-file-your-taxes-step-by-step"" id=""accessible-megamenu-file-submenu-2"" data-drupal-link-system-path=""node/19456"">Individuals</a>
+                  </li>
+                                                                      <li><a href=""https://www.irs.gov/businesses"" id=""accessible-megamenu-file-submenu-3"" data-drupal-link-system-path=""node/18976"">Business &amp; Self Employed</a>
+                  </li>
+                                                                      <li><a href=""https://www.irs.gov/charities-and-nonprofits"" id=""accessible-megamenu-file-submenu-4"" data-drupal-link-system-path=""node/58461"">Charities and Nonprofits</a>
+                  </li>
+                                                                      <li><a href=""https://www.irs.gov/individuals/international-taxpayers"" id=""accessible-megamenu-file-submenu-5"" data-drupal-link-system-path=""node/19696"">International Taxpayers</a>
+                  </li>
+                                                                      <li><a href=""https://www.irs.gov/government-entities/federal-state-local-governments"" id=""accessible-megamenu-file-submenu-6"" data-drupal-link-system-path=""node/19446"">Federal State and Local Governments</a>
+                  </li>
+                                                                      <li><a href=""https://www.irs.gov/government-entities/indian-tribal-governments"" id=""accessible-megamenu-file-submenu-7"" data-drupal-link-system-path=""node/19601"">Indian Tribal Governments</a>
+                  </li>
+                                                                      <li><a href=""https://www.irs.gov/tax-exempt-bonds"" id=""accessible-megamenu-file-submenu-8"" data-drupal-link-system-path=""node/19671"">Tax Exempt Bonds</a>
+                  </li>
+                                                          </div> ","mn-header navbar-text dropdown-toggle"" data-toggle=""dropdown""><button class=""footer-mobile-icon"" tabindex=""-1"">Resolve an Issue <span class=""caret""></span></button></span>
+                        <ul block=""footernavigation_2"" class=""dropdown-menu"">
+                      <li class=""first"">
+                                        <a href=""https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter"" data-drupal-link-system-path=""node/16683"">IRS Notices and Letters</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/identity-theft-central"" data-drupal-link-system-path=""node/19616"">Identity Theft</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/privacy-disclosure/report-phishing"" data-drupal-link-system-path=""node/15745"">Phishing</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/compliance/criminal-investigation/tax-fraud-alerts"" data-drupal-link-system-path=""node/15416"">Tax Fraud</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/compliance/criminal-investigation"" data-drupal-link-system-path=""node/19091"">Criminal Investigation</a>
+              </li>
+                      <li class=""last"">
+                                        <a href=""https://www.irs.gov/compliance/whistleblower-office"" data-drupal-link-system-path=""node/7935"">Whistleblower Office</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class=""expanded dropdown"">
+                                                                    <span class=""footer-colu slide"" data-description=""Get Your Tax Records"" href=""https://www.irs.gov/individuals/get-transcript"" style=""width: 100%; display: inline-block;"" tabindex=""-1"">
+        
+                        <div class=""paragraph paragraph--type--pup-hsc paragraph--view-mode--default slide-with-image"">
+                        <img src=""/pub/image/1205-GetTranscript_laptop-250-208.png"" alt=""Get Your Tax Records"">
+        <h3>Get Your Tax Records</h3>
+        <p>Request your transcripts online or by mail.</p>
+      </div>
+              <div class=""pup-carousel-link-text"">Get your transcript</div>
+            
+      </a></div></div><div class=""slick-slide"" data-slick-index=""7"" role=""group"" aria-label=""slide 8"" aria-hidden=""true"" style=""width: 555px;""><div><a class=""pup-slick-slide"" data-description=""Identity Protection PIN (IP PIN)"" href=""https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin"" style=""width: 100%; display: inline-block;"" tabindex=""-1"">
+        
+                        <div class=""paragraph paragraph--type--pup-hsc paragraph--view-mode--default slide-with-image"">
+                        <img src=""/pub/image/homepage-tools-ippin-laptop.png"" alt=""Identity Protection PIN (IP PIN)"">
+        <h3>Identity Protection PIN (IP PIN)</h3>
+        <p>Protect yourself from tax-related identity theft.</p>
+      </div>
+              <div class=""pup-carousel-link-text"">Register for your IP PIN</div>
+            
+      </a></div></div><div class=""slick-slide"" data-slick-index=""8"" role=""group"" aria-label=""slide 9"" aria-hidden=""true"" style=""width: 555px;""><div><a class=""pup-slick- n first"">
+                                                                    <span class=""footer-column-header navbar-text dropdown-toggle"" data-toggle=""dropdown""><button class=""footer-mobile-icon"" tabindex=""-1"">Our Agency <span class=""caret""></span></button></span>
+                        <ul block=""footernavigation_2"" class=""dropdown-menu"">
+                      <li class=""first"">
+                                        <a href=""https://www.irs.gov/about-irs"" data-drupal-link-system-path=""node/18841"">About IRS</a>
+              </li>
+                      <li>
+                                        <a href=""https://jobs.irs.gov/"" onclick=""ga('send', 'event', 'Outbound Links', 'Click', 'jobs.irs.gov/');"">Careers</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/statistics/soi-tax-stats-irs-operations-and-budget"" data-drupal-link-system-path=""node/506"">Operations and Budget</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/statistics"" data-drupal-link-system-path=""node/19746"">Tax Statistics</a>
+              </li>
+                      <li>
+                                        <a href=""https://www.irs.gov/help/let-us-help-you"" data-drupal-link-system-path=""node/16916"">Help</a>
+              </li>
+                      <li class=""last"">
+                                        <a href=""https://www.irs.gov/help/contact-your-local-irs-office"" data-drupal-link-system-path=""node/16903"">Find a Local Office</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class=""expanded dropdown"">
+                                                                    <span class=""footer-colu "
+"<div class=""sc-gIVWWl kyLRGq"" style=""grid-area: documentation;""><div class=""sc-blmEgr dnzoDX"">Documentation</div><a href=""/docs/competitions"" data-click-log-id=""km-footer-docs-competitions"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Competitions</a><a href=""/docs/datasets"" data-click-log-id=""km-footer-docs-datasets"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Datasets</a><a href=""/docs/models"" data-click-log-id=""km-footer-docs-models"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Models</a><a href=""/docs/notebooks"" data-click-log-id=""km-footer-docs-kernels"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Notebooks</a><a href=""/docs/api"" data-click-log-id=""km-footer-docs-api"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Public API</a></div><div class=""sc-gIVWWl kyLRGq"" style=""grid-area: company;""><div class=""sc-blmEgr dnzoDX"">Company</div><a href=""/about/team"" data-click-log-id=""km-footer-team"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Our Team</a><a href=""https://medium.com/kaggle-blog"" rel=""noopener noreferrer"" data-click-log-id=""km-footer-blog"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Blog</a><a href=""/contact"" data-click-log-id=""km-footer-contact"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Contact Us</a><a href=""/host"" data-click-log-id=""km-footer-host"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Host a Competition</a><span><a href=""/terms"" data-click-log-id=""km-footer-terms"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Terms</a> · <a href=""/privacy"" data-click-log-id=""km-footer-privacy"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Privacy Policy</a></span></div></footer></div></div></div><div id=""nav-footer"" class=""sc-fSurle gMWbql""></div></div><div role=""presentation""></div></div></div>
+
+<div id=""site-body"" class=""hide"">
+    
+
+</div>
+
+
+
+
+  </main>
+
+
+
+<div><div class=""grecaptcha-badge"" data-style=""bottomright"" style=""width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;""><div class=""grecaptcha-logo""><iframe title=""reCAPTCHA"" width=""256"" height=""60"" role=""presentation"" name=""a-wzp6c9xa12cw"" frameborder=""0"" scrolling=""no"" sandbox=""allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation"" src=""https://www.google.com/recaptcha/enterprise/anchor?ar=1&amp;k=6LcW02cpAAAAAJlaJemsQQEwAiTEYB4aR6FYE_rD&amp;co=aHR0cHM6Ly93d3cua2FnZ2xlLmNvbTo0NDM.&amp;hl=en&amp;v=Hq4JZivTyQ7GP8Kt571Tzodj&amp;size=invisible&amp;cb=dyzslnt23acq""></iframe></div><div class=""grecaptcha-error""></div><textarea id=""g-recaptcha-response-100000"" name=""g-recaptcha-response"" class=""g-recaptcha-response"" style=""width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;""></textarea></div><iframe style=""display: none;""></iframe></div></body></html> <div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""><a href=""/paweljankiewicz"" aria-label=""Paweł Jankiewicz"" class=""sc-hsaIUA bZKhLf""><div data-testid=""avatar-image"" title=""Paweł Jankiewicz"" class=""sc-bZTyFN ccUYPO"" style=""background-image: url(&quot;https://storage.googleapis.com/kaggle-avatars/thumbnails/26782-kg.png&quot;);""></div><svg width=""48"" height=""48"" viewBox=""0 0 48 48""><circle r=""22.5"" cx=""24"" cy=""24"" fill=""none"" stroke-width=""3"" style=""stroke: rgb(241, 243, 244);""></circle><circle r=""22.5"" cx=""24"" cy=""24"" fill=""none"" stroke-width=""3"" style=""stroke: rgb(250, 224, 65);""></circle></svg></a><div class=""sc-blmEgr sc-bnkCyQ dnzoDX jkLqQe"">Mercari Price Suggestion Challenge</div></div><div class=""sc-dhEHdF krcwbZ""><p class=""sc-hIPBNq dbQjTi"">1st Place Solution · 242 upvotes</p></div><p class=""sc-hIPBNq sc-eEPhau dbQjTi ifMVof"">Hello everyone, thanks for an amazing competition. Together with Konstantin we are very excited, pro</p></div></a></div></div></div><div><div class=""sc-cMTCJW cxWZwI""><div style=""display: flex; align-items: center;""><i class=""rmwc-icon rmwc-icon--ligature google-symbols sc-iBdnpw dhvkUd"" style=""margin-right: 20px;"">school</i><h6 class=""sc-csKJxZ ktYrvv"">Courses</h6></div><a href=""/learn"" tabindex=""0"" class=""sc-eYFTNc kCNxNb""><button tabindex=""-1"" role=""button"" class=""sc-iEYVpv fWEmDB""><i class=""rmwc-icon rmwc-icon--ligature google-symbols sc-iBdnpw dgOjli"">arrow_right_alt</i><span class=""sc-bBkKde epgXIi"">View all</span></button></a></div><p class=""sc-ifyrAs fbEhhk"" style=""margin-bottom: 32px;"">Earn a signed certificate and learn new techniques in our no cost, hands-on courses.</p><div class=""sc-eHnHoL iQQdSX""><div data-click-log-id=""km-course-card-0"" class=""sc-kumkhN sc-iikBpt goGKVx fWFuos""><a tabindex=""0"" href=""/learn/intro-to-programming"" class=""sc-hSEhNS eRIrAa sc-jbJrXe eWyzHK""><div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""><div class=""sc-blmEgr sc-bnkCyQ dnzoDX jtJpyC"">Intro to Programming</div><img src=""/static/images/education/km/intro-to-programming.svg"" title=""Intro to Programming"" width=""48"" height=""48"" alt=""""></div><div class=""sc-dhEHdF krcwbZ""><p class=""sc-hIPBNq dbQjTi"">5 hours to complete</p></div><p class=""sc-hIPBNq sc-eEPhau dbQjTi ifMVof"">Get started with Python, if you have no coding experience.</p></div></a></div><div data-click-log-id=""km-course-card-1"" class=""sc-kumkhN sc-iikBpt goGKVx fWFuos""><a tabindex=""0"" href=""/learn/python"" class=""sc-hSEhNS eRIrAa sc-jbJrXe eWyzHK""><div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""><div class=""sc-blmEgr sc-bnkCyQ dnzoDX jtJpyC"">Python</div><img src=""/static/images/education/km/python.svg"" title=""Python"" width=""48"" height=""48"" alt=""""></div><div class=""sc-dhEHdF krcwbZ""><p class=""sc-hIPBNq dbQjTi"">5 hours to complete</p></div><p class=""sc-hIPBNq sc-eEPhau dbQjTi ifMVof"">Learn the most important language for data science.</p></div></a></div><div data-click-log-id=""km-course-card-2"" class=""sc-kumkhN sc-iikBpt goGKVx fWFuos""><a tabindex=""0"" href=""/learn/intro-to-machine-learning"" class=""sc-hSEhNS eRIrAa sc-jbJrXe eWyzHK""><div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""><div class=""sc-blmEgr sc-bnkCyQ dnzoDX jtJpyC"">Intro to Machine Learning</div><img src=""/static/images/education/km/intro-to-machine-learning.svg"" title=""Intro to Machine Learning"" width=""48"" height=""48"" alt=""""></div><div class=""sc-dhEHdF krcwbZ""><p class=""sc-hIPBNq dbQjTi"">3 hours to complete</p></div><p class=""sc-hIPBNq sc-eEPhau dbQjTi ifMVof"">Learn the core ideas in machine learning, and build your first models.</p></div></a></div><div data-click-log-id=""km-course-card-3"" class=""sc-kumkhN sc-iikBpt goGKVx fWFuos""><a tabindex=""0"" href=""/learn/pandas"" class=""sc-hSEhNS eRIrAa sc-jbJrXe eWyzHK""><div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""> <div data-click-log-id=""km-competition-card-1"" class=""sc-kumkhN sc-iikBpt goGKVx fWFuos""><a tabindex=""0"" href=""/competitions/home-credit-credit-risk-model-stability"" class=""sc-hSEhNS eRIrAa sc-jbJrXe eWyzHK""><div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""><div class=""sc-blmEgr sc-bnkCyQ dnzoDX jtJpyC"">Home Credit - Credit Risk Model Stability</div><div class=""sc-gnQwKE iathGe""><img src=""/competitions/50160/images/thumbnail"" title=""Home Credit - Credit Risk Model Stability"" width=""48"" height=""48"" alt=""""></div></div><div class=""sc-dhEHdF krcwbZ""><p class=""sc-hIPBNq dbQjTi"">$105,000 · Featured Competition</p></div><p class=""sc-hIPBNq sc-eEPhau dbQjTi ifMVof"">Create a model measured against feature stability over time</p></div></a></div><div data-click-log-id=""km-competition-card-2"" class=""sc-kumkhN sc-iikBpt goGKVx fWFuos""><a tabindex=""0"" href=""/competitions/pii-detection-removal-from-educational-data"" class=""sc-hSEhNS eRIrAa sc-jbJrXe eWyzHK""><div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""><div class=""sc-blmEgr sc-bnkCyQ dnzoDX jtJpyC"">The Learning Agency Lab - PII Data Detection</div><div class=""sc-gnQwKE iathGe""><img src=""/competitions/66653/images/thumbnail"" title=""The Learning Agency Lab - PII Data Detection"" width=""48"" height=""48"" alt=""""></div></div><div class=""sc-dhEHdF krcwbZ""><p class=""sc-hIPBNq dbQjTi"">$60,000 · Featured Competition</p></div><p class=""sc-hIPBNq sc-eEPhau dbQjTi ifMVof"">Develop automated techniques to detect and remove PII from educational data.</p></div></a></div><div data-click-log-id=""km-competition-card-3"" class=""sc-kumkhN sc-iikBpt goGKVx fWFuos""><a tabindex=""0"" href=""/competitions/hms-harmful-brain-activity-classification"" class=""sc-hSEhNS eRIrAa sc-jbJrXe eWyzHK""><div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""><div class=""sc-blmEgr sc-bnkCyQ dnzoDX jtJpyC"">HMS - Harmful Brain Activity Classification </div><div class=""sc-gnQwKE iathGe""><img src=""/competitions/59093/images/thumbnail"" title=""HMS - Harmful Brain Activity Classification "" width=""48"" height=""48"" alt=""""></div></div><div class=""sc-dhEHdF krcwbZ""><p class=""sc-hIPBNq dbQjTi"">$50,000 · Research Competition</p></div><p class=""sc-hIPBNq sc-eEPhau dbQjTi ifMVof"">Classify seizures and other patterns of harmful brain activity in critically ill patients</p></div></a></div></div></div><div style=""margin-bottom: 16px;""><div class=""sc-cMTCJW cxWZwI""><div style=""display: flex; align-items: center;""><i class=""rmwc-icon rmwc-icon--ligature google-symbols sc-iBdnpw dhvkUd"" style=""margin-right: 20px;"">magic_button</i><h6 class=""sc-csKJxZ ktYrvv"">Solution write-ups</h6></div><a href=""/discussions?sort=recent-comments&amp;category=competitionWriteUps#search-discussions"" tabindex=""0"" class=""sc-eYFTNc kCNxNb""><button tabindex=""-1"" role=""button"" class=""sc-iEYVpv fWEmDB""><i class=""rmwc-icon rmwc-icon--ligature google-symbols sc-iBdnpw dgOjli"">arrow_right_alt</i><span class=""sc-bBkKde epgXIi"">View all</span></button></a></div><p class=""sc-ifyrAs fbEhhk"" style=""margin-bottom: 32px;"">Learn cutting edge ML techniques and what worked and didn't from the top Kaggle competitors.</p><div class=""sc-eHnHoL iQQdSX""><div data-click-log-id=""km-solution-card-0"" class=""sc-kumkhN sc-iikBpt goGKVx fWFuos""><a tabindex=""0"" href=""/competitions/quora-question-pairs/discussion/34355"" class=""sc-hSEhNS eRIrAa sc-jbJrXe eWyzHK""><div class=""sc-gwQtMM bjYvTz"" style=""padding: 24px;""><div class=""sc-kWdwBT WMDla""><a href=""/colonelcarotte"" aria-label=""Maximilien@DAMI"" class=""sc-hsaIUA bZKhLf""> ","tom: 16px;""><div class=""sc-cMTCJW cxWZwI""><div style=""display: flex; align-items: center;""><i class=""rmwc-icon rmwc-icon--ligature google-symbols sc-iBdnpw dhvkUd"" style=""margin-right: 20px;"">rewarded_ads</i><h6 class=""sc-csKJxZ ktYrvv"">Competitions</h6></div><a href=""/competitions"" tabindex=""0"" class=""sc-eYFTNc kCNxNb""><button tabindex=""-1"" role=""button"" class=""sc-iEYVpv fWEmDB""><i class=""rmwc-icon rmwc-icon--ligature google-symbols sc-iBdnpw dgOjli"">arrow_right_alt</i><span class=""sc-bBkKde epgXIi"">View all</span></button></a></div><p class=""sc-ifyrAs fbEhhk"" style=""margin-bottom: 32px;"">Build your skills in our competitions, co-hosted by world-class research organizations &amp; companies.</p><div class=""sc-eHnHoL Documentation</div><a href=""/docs/competitions"" data-click-log-id=""km-footer-docs-competitions"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Competitions</a><a href=""/docs/datasets"" data-click-log-id=""km-footer-docs-datasets"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Datasets</a><a href=""/docs/models"" data-click-log-id=""km-footer-docs-models"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Models</a><a href=""/docs/notebooks"" data-click-log-id=""km-footer-docs-kernels"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Notebooks</a><a href=""/docs/api"" data-click-log-id=""km-footer-docs-api"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Public API</a></div><div class=""sc-gIVWWl kyLRGq"" style=""grid-area: company;""><div class=""sc-blmEgr dnzoDX"">Company</div><a href=""/about/team"" data-click-log-id=""km-footer-team"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Our Team</a><a href=""https://medium.com/kaggle-blog"" rel=""noopener noreferrer"" data-click-log-id=""km-footer-blog"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Blog</a><a href=""/contact"" data-click-log-id=""km-footer-contact"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Contact Us</a><a href=""/host"" data-click-log-id=""km-footer-host"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Host a Competition</a><span><a href=""/terms"" data-click-log-id=""km-footer-terms"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Terms</a> · <a href=""/privacy"" data-click-log-id=""km-footer-privacy"" class=""sc-gjLLEI sc-fAscey kIbkrq dDqYED"">Privacy Policy</a></span></div></footer></div></div></div><div id=""nav-footer"" class=""sc-fSurle gMWbql""></div></div><div role=""presenta class=""sc-dlDPRo gxlwRb""><div class=""sc-jiSpbx kcFuZv""><div class=""sc-hlzKsW qeHWM""><div class=""sc-emwzcK bOZktc sc-bTsAej hvPxpi""><a href=""#site-content"" class=""sc-gjLLEI sc-juusvx kZjAbX dwwkA"">Skip to<br>content</a><div class=""sc-cMdfCE flAQNM""><a href=""/""><img src=""/static/images/site-logo.svg"" alt=""Kaggle"" class=""sc-dxfTlo kGHigE""></a></div></div></div><a href=""/competitions"" data-click-log-id=""nav-con-competitions"" class=""sc-jtMbrs bwioyi"">Competitions</a><a href=""/datasets"" data-click-log-id=""nav-con-datasets"" class=""sc-jtMbrs bwioyi"">Datasets</a><a href=""/models"" data-click-log-id=""nav-con-models"" class=""sc-jtMbrs bwioyi"">Models</a><a href=""/code"" data-click-log-id=""nav-con-code"" class=""sc-jtMbrs bwioyi"">Code</a><a href=""/discussions"" data-click-log-id=""nav-con-discussion"" class=""sc-jtMbrs bwioyi"">Discussions</a><a href=""/learn"" data-click-log-id=""nav-con-learn"" class=""sc-jtMbrs bwioyi"">Courses</a><div class=""sc-jnbAOD hbAQbO""><button aria-label=""more_horiz"" class=""sc-jIBlqr hXNnzD google-symbols"">more_horiz</button></div><div class=""sc-cxtRbA juBHei mdc-menu-surface--anchor""><div></div></div></div><div class=""sc-ebERcF ySNIq""><div class=""sc-bWbSeO bvuLRY sc-iYBOoK kaFqYC""><div class=""sc-dlGagL eIIEQp""><div class=""sc-fzuLxF MBveJ""><i class=""rmwc-icon rmwc-icon--ligature google-symbols sc-iBdnpw gIbDSK sc-iYqbYc kkmFFt"">search</i></div><input placeholder=""Search"" aria-label=""Search"" class=""sc-gKBqHi bZKDgh"" value=""""></div></div><div class=""sc-iqziPC gJSBDX""><div class=""sc-eXzmLu iTqJcX""><a href=""/account/login?phase=startSignInTab&amp;returnUrl=%2F"" class=""sc-kUNLVD bXHpBe""><button tabindex=""0"" role=""button"" class=""sc-iEYVpv huJxEs""><span class=""sc-bBkKde epgXIi"">Sign In</span></button></a></div><div class=""sc-eXzmLu iTqJcX""><a href=""/account/login?phase=startRegisterTab&amp;returnUrl=%2F"" class=""sc-kUNLVD bXHpBe""><button tabindex=""0"" role=""button"" class=""sc-iEYVpv kdrWwl""><span class=""sc-bBkKde epgXIi"">Register</span></button></a></div></div></div></di "
+"<div id=""p-vector-user-menu-notifications"" class=""vector-menu mw-portlet emptyPortlet"">
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id=""p-vector-user-menu-overflow"" class=""vector-menu mw-portlet"">
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			<li id=""pt-createaccount-2"" class=""user-links-collapsible-item mw-list-item user-links-collapsible-item""><a data-mw=""interface"" href=""/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page"" title=""You are encouraged to create an account and log in; however, it is not mandatory"" class=""""><span>Create account</span></a>
+</li>
+<li id=""pt-login-2"" class=""user-links-collapsible-item mw-list-item user-links-collapsible-item""><a data-mw=""interface"" href=""/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page"" title=""You're encouraged to log in; however, it's not mandatory. [alt-shift-o]"" accesskey=""o"" class=""""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id=""vector-user-links-dropdown"" class=""vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"" title=""Log in and more options"">
+	<input type=""checkbox"" id=""vector-user-links-dropdown-checkbox"" role=""button"" aria-haspopup=""true"" data-event-name=""ui.dropdown-vector-user-links-dropdown"" class=""vector-dropdown-checkbox "" aria-label=""Personal tools"">
+	<label id=""vector-user-links-dropdown-label"" for=""vector-user-links-dropdown-checkbox"" class=""vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "" aria-hidden=""true""><span class=""vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis""></span>
+
+<span class=""vector-dropdown-label-text"">Personal tools</span>
+	</label>
+	<div class=""vector-dropdown-content"">
+
+
+		
+<div id=""p-personal"" class=""vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"" title=""User menu"">
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			
+			<li id=""pt-createaccount"" class=""user-links-collapsible-item mw-list-item""><a href=""/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page"" title=""You are encouraged to create an account and log in; however, it is not mandatory""><span class=""vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd""></span> <span>Create account</span></a></li><li id=""pt-login"" class=""user-links-collapsible-item mw-list-item""><a href=""/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page"" title=""You're encouraged to log in; however, it's not mandatory. [alt-shift-o]"" accesskey=""o""><span class=""vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn""></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id=""p-user-menu-anon-editor"" class=""vector-menu mw-portlet mw-portlet-user-menu-anon-editor"">
+	<div class=""vector-menu-heading"">
+		Pages for logged out editors <a href=""/wiki/Help:Introduction"" aria-label=""Learn more about editing""><span>learn more</span></a>
+	</div>
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			
+			<li id=""pt-anoncontribs"" class=""mw-list-item""><a href=""/wiki/Special:MyContributions"" title=""A list of edits made from this IP address [alt-shift-y]"" accesskey=""y""><span>Contributions</span></a></li><li id=""pt-anontalk"" class=""mw-list-item""><a href=""/wiki/Special:MyTalk"" title=""Discussion about edits from this IP address [alt-shift-n]"" accesskey=""n""><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class=""mw-page-container"">
+	<div class=""mw-page-container-inner"">
+		<div class=""vector-sitenotice-container"">
+			<div id=""siteNotice""> <link rel=""alternate"" type=""application/atom+xml"" title=""Wikipedia Atom feed"" href=""/w/index.php?title=Special:RecentChanges&amp;feed=atom"">
+<link rel=""dns-prefetch"" href=""//meta.wikimedia.org"">
+<link rel=""dns-prefetch"" href=""//login.wikimedia.org"">
+</head> <script>(function(){var className=""client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-not-available"";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={""wgBreakFrames"":false,""wgSeparatorTransformTable"":["""",""""],
+""wgDigitTransformTable"":["""",""""],""wgDefaultDateFormat"":""dmy"",""wgMonthNames"":["""",""January"",""February"",""March"",""April"",""May"",""June"",""July"",""August"",""September"",""October"",""November"",""December""],""wgRequestId"":""cf294e17-bd06-424e-b759-0a28e9a7f8a0"",""wgCanonicalNamespace"":"""",""wgCanonicalSpecialPageName"":false,""wgNamespaceNumber"":0,""wgPageName"":""Main_Page"",""wgTitle"":""Main Page"",""wgCurRevisionId"":1212457119,""wgRevisionId"":1212457119,""wgArticleId"":15580374,""wgIsArticle"":true,""wgIsRedirect"":false,""wgAction"":""view"",""wgUserName"":null,""wgUserGroups"":[""*""],""wgCategories"":[],""wgPageViewLanguage"":""en"",""wgPageContentLanguage"":""en"",""wgPageContentModel"":""wikitext"",""wgRelevantPageName"":""Main_Page"",""wgRelevantArticleId"":15580374,""wgIsProbablyEditable"":false,""wgRelevantPageIsProbablyEditable"":false,""wgRestrictionEdit"":[""sysop""],""wgRestrictionMove"":[""sysop""],""wgIsMainPage"":true,""wgNoticeProject"":""wikipedia"",""wgFlaggedRevsParams"":{""tags"":{""status"":{""levels"":1}}},""wgMediaViewerOnClick"":true,
+""wgMediaViewerEnabledByDefault"":true,""wgPopupsFlags"":6,""wgVisualEditor"":{""pageLanguageCode"":""en"",""pageLanguageDir"":""ltr"",""pageVariantFallbacks"":""en""},""wgMFDisplayWikibaseDescriptions"":{""search"":true,""watchlist"":true,""tagline"":false,""nearby"":true},""wgWMESchemaEditAttemptStepOversample"":false,""wgWMEPageLength"":3000,""wgULSCurrentAutonym"":""English"",""wgCentralAuthMobileDomain"":false,""wgEditSubmitButtonLabelPublish"":true,""wgULSPosition"":""interlanguage"",""wgULSisCompactLinksEnabled"":false,""wgVector2022LanguageInHeader"":true,""wgULSisLanguageSelectorEmpty"":false,""wgWikibaseItemId"":""Q5296"",""wgCheckUserClientHintsHeadersJsApi"":[""architecture"",""bitness"",""brands"",""fullVersionList"",""mobile"",""model"",""platform"",""platformVersion""],""GEHomepageSuggestedEditsEnableTopics"":true,""wgGETopicsMatchModeEnabled"":false,""wgGEStructuredTaskRejectionReasonTextInputEnabled"":false,""wgGELevelingUpEnabledForUser"":false};RLSTATE={""skins.vector.user.styles"":""ready"",""ext.globalCssJs.user.styles"":""ready"",""site.styles"":
+""ready"",""user.styles"":""ready"",""skins.vector.user"":""ready"",""ext.globalCssJs.user"":""ready"",""user"":""ready"",""user.options"":""loading"",""skins.vector.search.codex.styles"":""ready"",""skins.vector.styles"":""ready"",""skins.vector.icons"":""ready"",""ext.visualEditor.desktopArticleTarget.noscript"":""ready"",""ext.uls.interlanguage"":""ready"",""ext.wikimediaBadges"":""ready""};RLPAGEMODULES=[""site"",""mediawiki.page.ready"",""skins.vector.js"",""ext.centralNotice.geoIP"",""ext.centralNotice.startUp"",""ext.gadget.ReferenceTooltips"",""ext.gadget.switcher"",""ext.urlShortener.toolbar"",""ext.centralauth.centralautologin"",""mmv.head"",""mmv.bootstrap.autostart"",""ext.popups"",""ext.visualEditor.desktopArticleTarget.init"",""ext.visualEditor.targetLoader"",""ext.echo.centralauth"",""ext.eventLogging"",""ext.wikimediaEvents"",""ext.navigationTiming"",""ext.uls.interface"",""ext.cx.eventlogging.campaigns"",""wikibase.client.vector-2022"",""ext.checkUser.clientHints"",""ext.growthExperiments.SuggestedEditSession""];</script> ","<nav class=""vector-user-links vector-user-links-wide"" aria-label=""Personal tools"" role=""navigation"">
+	<div class=""vector-user-links-main"">
+	
+<div id=""p-vector-user-menu-preferences"" class=""vector-menu mw-portlet emptyPortlet"">
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id=""p-vector-user-menu-userpage"" class=""vector-menu mw-portlet emptyPortlet"">
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class=""vector-client-prefs-landmark"" aria-label=""Appearance"">
+		
+		
+	</nav>
+	
+<div id=""p-vector-user-menu-notifications"" class=""vector-menu mw-portlet emptyPortlet"">
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id=""p-vector-user-menu-overflow"" class=""vector-menu mw-portlet"">
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			<li id=""pt-createaccount-2"" class=""user-links-collapsible-item mw-list-item user-links-collapsible-item""><a data-mw=""interface"" href=""/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page"" title=""You are encouraged to create an account and log in; however, it is not mandatory"" class=""""><span>Create account</span></a>
+</li>
+<li id=""pt-login-2"" class=""user-links-collapsible-item mw-list-item user-links-collapsible-item""><a data-mw=""interface"" href=""/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page"" title=""You're encouraged to log in; however, it's not mandatory. [alt-shift-o]"" accesskey=""o"" class=""""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div> <div class=""vector-dropdown-content"">
+
+
+		
+<div id=""p-personal"" class=""vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"" title=""User menu"">
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			
+			<li id=""pt-createaccount"" class=""user-links-collapsible-item mw-list-item""><a href=""/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page"" title=""You are encouraged to create an account and log in; however, it is not mandatory""><span class=""vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd""></span> <span>Create account</span></a></li><li id=""pt-login"" class=""user-links-collapsible-item mw-list-item""><a href=""/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page"" title=""You're encouraged to log in; however, it's not mandatory. [alt-shift-o]"" accesskey=""o""><span class=""vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn""></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id=""p-user-menu-anon-editor"" class=""vector-menu mw-portlet mw-portlet-user-menu-anon-editor"">
+	<div class=""vector-menu-heading"">
+		Pages for logged out editors <a href=""/wiki/Help:Introduction"" aria-label=""Learn more about editing""><span>learn more</span></a>
+	</div>
+	<div class=""vector-menu-content"">
+		
+		<ul class=""vector-menu-content-list"">
+			
+			<li id=""pt-anoncontribs"" class=""mw-list-item""><a href=""/wiki/Special:MyContributions"" title=""A list of edits made from this IP address [alt-shift-y]"" accesskey=""y""><span>Contributions</span></a></li><li id=""pt-anontalk"" class=""mw-list-item""><a href=""/wiki/Special:MyTalk"" title=""Discussion about edits from this IP address [alt-shift-n]"" accesskey=""n""><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div> Commons Attribution-ShareAlike License 4.0</a><a rel=""license"" href=""//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License"" style=""display:none;""></a>;
+additional terms may apply. By using this site, you agree to the <a href=""//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use"">Terms of Use</a> and <a href=""//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href=""//www.wikimediafoundation.org/"">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id=""footer-places"">
+	<li id=""footer-places-privacy""><a href=""https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"">Privacy policy</a></li>
+	<li id=""footer-places-about""><a href=""/wiki/Wikipedia:About"">About Wikipedia</a></li>
+	<li id=""footer-places-disclaimers""><a href=""/wiki/Wikipedia:General_disclaimer"">Disclaimers</a></li>
+	<li id=""footer-places-contact""><a href=""//en.wikipedia.org/wiki/W "
+"<div class=""gb_k gb_w gb_J"" data-ogsr-fb=""true"" data-ogsr-alt="""" id=""gbwa""><div class=""gb_f""><a class=""gb_d"" aria-label=""Google apps"" href=""https://www.google.com/intl/en/about/products"" aria-expanded=""false"" role=""button"" tabindex=""0""><svg class=""gb_h"" focusable=""false"" viewBox=""0 0 24 24""><path d=""M6,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM16,6c0,1.1 0.9,2 2,2s2,-0.9 2,-2 -0.9,-2 -2,-2 -2,0.9 -2,2zM12,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2z""></path><image src=""https://ssl.gstatic.com/gb/images/bar/al-icon.png"" alt="""" height=""24"" width=""24"" style=""border:none;display:none \9""></image></svg></a></div></div></div><a class=""gb_Ba gb_md gb_Od gb_me"" aria-label=""Sign in"" href=""https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=https://www.google.fr/&amp;ec=GAZAmgQ"" target=""_top""><span class=""gb_Kd"">Sign in</span></a></div><div style=""overflow: hidden; position: absolute; top: 0px; width: 370px; z-index: 991; height: 180px; margin-top: 70px; right: 0px; margin-right: 25px;""><iframe role=""presentation"" frameborder=""0"" scrolling=""no"" name=""callout"" src=""https://ogs.google.fr/widget/callout?prid=19037050&amp;pgid=19037049&amp;puid=9ceb59a7585b55bd&amp;cce=1&amp;dc=1&amp;origin=https%3A%2F%2Fwww.google.fr&amp;cn=callout&amp;pid=1&amp;spid=538&amp;hl=en"" aria-modal=""true"" aria-hidden=""false"" style=""height: 100%; width: 100%; color-scheme: light;""></iframe></div><div style=""overflow: hidden; position: absolute; top: 0px; visibility: hidden; width: 370px; z-index: 991; height: 0px; margin-top: 49px; transition: height 0.3s ease-in-out 0s; right: 0px; margin-right: 4px;""></div></div></div></div></div></div><div class=""o3j99 LLD4me yr19Zb LS8OJ""><style data-iml=""1711387260653"">.LS8OJ{display:flex;flex-direction:column;align-items:center}.k1zIA{height:100%;margin-top:auto}</style><div class=""k1zIA rSk4se""><style data-iml=""1711387260653"">.rSk4se{max-height:92px;position:relative}.lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto}</style><img class=""lnXdpd"" alt=""Google"" height=""92"" src=""/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"" srcset=""/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png 1x, /images/branding/googlelogo/2x/googlelogo_color_272x92dp.png 2x"" width=""272"" data-atf=""1"" data-frt=""0""></div></div><div class=""o3j99 ikrT4e om7nvf""><style data-iml=""1711387260653"">.om7nvf{padding:20px}</style><dialog class=""spch-dlg"" id=""spch-dlg""> <body jsmodel=""hspDDf "" jsaction=""xjhTIf:.CLIENT;O2vyse:.CLIENT;IVKTfe:.CLIENT;Ez7VMc:.CLIENT;YUC7He:.CLIENT;hWT9Jb:.CLIENT;WCulWe:.CLIENT;VM8bg:.CLIENT;qqf0n:.CLIENT;A8708b:.CLIENT;YcfJ:.CLIENT;szjOR:.CLIENT;JL9QDc:.CLIENT;kWlxhc:.CLIENT;ydZCDf:.CLIENT""><style data-iml=""1711387260653"">.L3eUgb{display:flex;flex-direction:column;height:100%}.o3j99{flex-shrink:0;box-sizing:border-box}.n1xJcf{height:60px}.LLD4me{min-height:150px;height:calc(100% - 560px);max-height:290px}.yr19Zb{min-height:92px}.ikrT4e{max-height:160px}.mwht9d{display:none}.ADHj4e{padding-top:0px;padding-bottom:85px}.oWyZre{width:100%;height:500px;border-width:0}.qarstb{flex-grow:1}</style><div class=""L3eUgb"" data-hveid=""1""><div class=""o3j99 n1xJcf Ne6nSd"" role=""navigation""><style data-iml=""1711387260653"">.Ne6nSd{display:flex;align-items:center;padding:6px}a.MV3Tnb{display:inline-block;padding:5px;margin:0 5px;color:#1f1f1f}a.MV3Tnb:first-of-type{margin-left:15px}.LX3sZb{display:inline-block;flex-grow:1}</style><a class=""MV3Tnb"" href=""https://about.google/?fg=1&amp;utm_source=google-US&amp;utm_medium=referral&amp;utm_campaign=hp-header"" data-jsarwt=""1"" data-usg=""AOvVaw13L0SpN0L7ycx9R0_i4R2S"" data-ved=""0ahUKEwiEx_Kt9o-FAxXovokEHfxSAMcQkNQCCAI"">About</a><a class=""MV3Tnb"" href=""https://store.google.com/US?utm_source=hp_header&amp;utm_medium=google_ooo&amp;utm_campaign=GS100042&amp;hl=en-US"" data-jsarwt=""1"" data-usg=""AOvVaw0wvkRBURf91YdMQCXOelDf"" data-ved=""0ahUKEwiEx_Kt9o-FAxXovokEHfxSAMcQpMwCCAM"">Store</a><div class=""LX3sZb""><div><div class=""gb_Pa gb_ld gb_gb gb_0c"" id=""gb""><div class=""gb_Bd gb_eb gb_qd"" data-ogsr-up=""""><div><div class=""gb_Id gb_J gb_3f gb_Tf"" data-ogbl=""""><div class=""gb_I gb_J""><a class=""gb_H"" aria-label=""Gmail (opens a new tab)"" data-pid=""23"" href=""https://mail.google.com/mail/&amp;ogbl"" target=""_top"">Gmail</a></div><div class=""gb_I gb_J""><a class=""gb_H"" aria-label=""Search for Images (opens a new tab)"" data-pid=""2"" href=""https://www.google.fr/imghp?hl=en&amp;ogbl"" target=""_top"">Images</a></div></div></div><div class=""gb_Ud""><div class=""gb_6c""> <div class=""gb_w gb_J gb_j""> <div class=""gb_f""> <a class=""gb_d"" aria-label=""Search Labs"" href=""https://labs.google.com/search/experiments?source=hp"" target=""_top"" role=""button"" tabindex=""0"">  <svg class=""gb_g"" focusable=""false"" height=""24px"" viewBox=""0 0 24 24"" width=""24px""> <path d=""M22.29,18.37a2,2,0,0,0,0-.24,4.3,4.3,0,0,0-.09-.47c-.05-.15-.11-.31-.17-.46a3.88,3.88,0,0,0-.24-.45l-6.3-8.94V3.64h1.48a.92.92,0,0,0,0-1.84H7.36a.92.92,0,0,0,0,1.84H8.84V7.81L2.55,16.75a2.17,2.17,0,0,0-.24.45,2.85,2.85,0,0,0-.17.46A3.89,3.89,0,0,0,2,18.6c0,.08,0,.16,0,.23A3.8,3.8,0,0,0,2.26,20a3.6,3.6,0,0,0,.59,1,2.5,2.5,0,0,0,.32.33,2.54,2.54,0,0,0,.36.29,3.89,3.89,0,0,0,.4.25,4.28,4.28,0,0,0,.43.19,3.76,3.76,0,0,0,1.22.21H18.72A3.67,3.67,0,0,0,19.94,22l.44-.19a3.64,3.64,0,0,0,1.8-2.28,3.2,3.2,0,0,0,.11-.69,1.69,1.69,0,0,0,0-.23A1.77,1.77,0,0,0,22.29,18.37Zm-1.95.44a.78.78,0,0,1-.05.18l0,.08a.78.78,0,0,0-.05.14,2.09,2.09,0,0,1-.46.64l-.09.08a.88.88,0,0,1-.17.12l-.15.09-.11.06-.25.09a2.33,2.33,0,0,1-.53.07H5.85a1.27,1.27,0,0,1-.28,0,1.93,1.93,0,0,1-.73-.26A.91.91,0,0,1,4.68,20l-.23-.2h0a2.21,2.21,0,0,1-.3-.45l-.06-.12a1.77,1.77,0,0,1-.15-.65,1.88,1.88,0,0,1,.3-1.12l0-.05L10.67,8.5h0V3.64h2.95V8.49h0l6.44,8.92a2.38,2.38,0,0,1,.17.31,2.12,2.12,0,0,1,.14.68A2.58,2.58,0,0,1,20.34,18.81Z""></path> <path d=""M5.66,17.74A.82.82,0,0,0,6.36,19H17.94a.82.82,0,0,0,.7-1.26l-4.1-5.55H9.76Z""></path> </svg> </a> </div> </div> <div class=""gb_k gb_w gb_J"" data-ogsr-fb=""true"" data-ogsr-alt="""" id=""gbwa""> ;c=void 0!==window.google&&
+void 0!==window.google.kOPI&&0!==window.google.kOPI?window.google.kOPI:null;null!=c&&a.push([""opi"",c.toString()]);for(c=0;c<a.length;c++){if(0===c||0<c)l+=""&"";l+=a[c][0]+""=""+a[c][1]}a=m+l;if((m=google.stvsc)?m.isBF:2===n())a+=""&bb=1"";1===n()&&(a+=""&r=1"");""gsasrt""in b&&(b=y(""qsd""),0<b&&(a+=""&qsd=""+b));b=a;""function""===typeof navigator.sendBeacon?navigator.sendBeacon(b,""""):google.log("""","""",b)}};function A(a){a&&google.tick(""load"",""cbs"",a);google.tick(""load"",""cbt"");z(""cap"")};var B=""src bsrc url ll image img-url lioi"".split("" "");function da(a){for(var b=0;b<B.length;++b)if(a.getAttribute(""data-""+B[b]))return!0;return!1}function C(a){for(;a;a=a.parentElement)if(""G-SCROLLING-CAROUSEL""===a.tagName)return a;return null}
+function ea(a){var b=void 0;r&&(b=C(a));b||r||(b=C(a));var c=a.parentElement;if(c&&(""G-IMG""===c.tagName||c.classList.contains(""uhHOwf""))&&(c.style.height||c.style.width)){var d=c.getBoundingClientRect(),e=a.getBoundingClientRect();if(d.height<=e.height||d.width<=e.width)a=c}return google.cv(a,!1,void 0,b)}google.c.iim=google.c.iim||{};var D=window.performance;var E=window.innerHeight||document.documentElement.clientHeight,F=0,G=0,H=0,fa=0,I=0,J=0,K=0,L=0,M=!0,N=!0,O=-1,P,Q=t?""load2"":""load"";function R(a,b,c,d){var e=google.timers[Q].t[a];e&&(c||d&&null!=b&&b<e)||google.tick(Q,a,b)}function S(a,b,c){var d=""1""===a.getAttribute(""data-frt"");b&&(w&&d&&(R(""frvt"",c,!1,!0),++fa),R(""aft"",c,!1,!0),R(""afti"",c,!1,!0),++J,M||(O=E),T());x&&R(""iml"",c,!1,!0);++G;a.setAttribute(""data-frt"",""0"");(x||b)&&U()}function U(){var a=x?G===F:J===I;!N&&a&&google.c.u(""il"",Q)}
+function T(){if(!M){var a=J===I;a&&(google.c.e(Q,""aft"",""1""),google.c.e(Q,""aftp"",String(Math.round(O))));if(a&&(P&&clearTimeout(P),z(t?""aft2"":""aft"",Q),!t&&google.c.c4t&&D&&D.mark&&D.timing)){var b=google.timers.load,c=b.wsrt;b=b.t.aft;c&&0<c&&b&&0<b&&(b-=D.timing.navigationStart,0<b&&(D.mark(""SearchAFTStart"",{startTime:c}),D.mark(""trigger:SearchAFTEnd"",{startTime:b})))}""hidden""===document.visibilityState&&google.c.e(Q,""hddn"",""1"");if(!t&&a&&null!==google.aftq){google.tick(""load"",""aftqf"",Date.now());var d;for(a=0;c=null==(d=google.aftq)?void 0:d[a++];)h(c);google.aftq=null}}}function V(){M&&!google.c.bofr&&(M=!1,M||(google.c.e(Q,""ima"",String(I)),google.c.e(Q,""imad"",String(K)),google.c.e(Q,""imac"",String(L)),google.c.e(Q,""imf"",String(H)),document.getElementsByClassName(""Ib7Efc"").length&&google.c.e(Q,""ddl"",""1"")),T())}
+function W(a,b,c){var d=a.getAttribute(""data-atf"");if(d)return c=Number(d),b&&!a.hasAttribute(""data-frt"")&&(0===c||c&8||a.setAttribute(""data-frt"",""1"")),c;var e=""string""!==typeof a.src||!a.src,k=!!a.getAttribute(""data-bsrc""),q=!!a.getAttribute(""data-deferred""),p=!q&&da(a);(p||e)&&a.setAttribute(""data-lzy_"",""1"");d=ea(a);a.setAttribute(""data-atf"",String(d));var g=!!(d&1);e=(e||a.complete)&&!q&&!k&&!(g&&p);k=!aa&&Number(a.getAttribute(""data-iml""))||0;++F;if(e&&!k||a.hasAttribute(""data-noaft""))a.setAttribute(""data-frt"",""0""),++G,g&&++L;else{var m=d&4,l=v&&m&&k&&O<E;if(l){var X=a.getBoundingClientRect().top+window.pageYOffset;!c||0>c||X<c?O=g?E:X:l=!1}g&&(++I,q&&++K);b&&(0===d||d&8||a.setAttribute(""data-frt"",""1""));w&&g&&b&&++H;l&&(R(""aft"",k,!1,!0),R(""aftb"",k,!1,!0));if(e&&k)S(a,g,v?0:k);else{g&&(!u&&!c||m||c&&(0>c||c>=E))&&(O=E);var Y=a.src;google.rll(a,!0,function(){(q||p)&&Y&&Y===a.src?google.rll(a,!0,function(){S(a,g,Date.now())}):S(a,g,Date.now())})}}return d}
+if(0<google.c.cap&&!t)a:{var ha=google.c.cap;if(window.performance&&window.performance.timing&&""navigationStart""in window.performance.timing){var Z=window.performance.now(),ia=ha-Z;if(0<ia){P=setTimeout(A,ia,Math.floor(window.performance.timing.navigationStart+Z));break a}A()}P=void 0}google.c.wh=Math.floor(window.innerHeight||document.documentElement.clientHeight);google.c.e(Q,""wh"",String(google.c.wh));google.c.b(""il"",Q);if(google.c.sxs){var ja=google.c.setup;google.c.setup=function(a){ja&&ja(a);return W(a)}}else google.c.setup=W;google.c.ubr=function(a,b,c,d){u&&O<E?(O=c||-1,R(""aft"",b)) ","iv class=""gb_Bd gb_eb gb_qd"" data-ogsr-up=""""><div><div class=""gb_Id gb_J gb_3f gb_Tf"" data-ogbl=""""><div class=""gb_I gb_J""><a class=""gb_H"" aria-label=""Gmail (opens a new tab)"" data-pid=""23"" href=""https://mail.google.com/mail/&amp;ogbl"" target=""_top"">Gmail</a></div><div class=""gb_I gb_J""><a class=""gb_H"" aria-label=""Search for Images (opens a new tab)"" data-pid=""2"" href=""https://www.google.fr/imghp?hl=en&amp;ogbl"" target=""_top"">Images</a></div></div></div><d class=""gb_Ba gb_md gb_Od gb_me"" aria-label=""Sign in"" href=""https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=https://www.google.fr/&amp;ec=GAZAmgQ"" target=""_top""><span class=""gb_Kd"">Sign in</span></a></div><d div class=""gb_k gb_w gb_J"" data-ogsr-fb=""true"" data-ogsr-alt="""" id=""gbwa""><div class=""gb_f""><a class=""gb_d"" aria-label=""Google apps"" href=""https://www.google.com/intl/en/about/products"" aria-expanded=""false"" role=""button"" tabindex=""0""><svg class=""gb_h"" focusable=""false"" viewBox=""0 0 24 24""><path d=""M6,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM16,6c0,1.1 0.9,2 2,2s2,-0.9 2,-2 -0.9,-2 -2,-2 -2,0.9 -2,2zM12,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2z""></path><image src=""https://ssl.gstatic.com/gb/images/bar/al-icon.png"" alt="""" height=""24"" width=""24"" style=""border:none;display:none \9""></image></svg></a></div></div></div><a "
+"<div class=""blade__description"">
+    <p>Unite marketing, sales, and service in a single app. Try Salesforce Starter Suite today. There's nothing to install. No credit card required.</p>
+
+</div>
+            
+            
+        </header>
+        
+        
+            
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div class=""cta_container flex flex--right ctas__2"">
+    
+
+    
+        
+    
+    
+        
+    
+    <pbc-button class=""cta_button__wrapper"" data-link-text=""Start free trial"" data-link-url=""https://www.salesforce.com/form/signup/freetrial-salesforce-starter/?d=pb"" data-link-type=""primary cta"">
+        <a class=""cta_button"" data-size="""" data-variant=""primary"" data-stacking=""default"" aria-label=""Start free trial: Salesforce Starter Suite"" href=""https://www.salesforce.com/form/signup/freetrial-salesforce-starter/?d=pb"" target=""_self"" rel=""noopener"">
+        Start free trial
+        </a>
+    </pbc-button>
+
+
+    
+        
+    
+    
+        
+    
+    <pbc-button class=""cta_button__wrapper"" data-link-text=""Watch demo"" data-link-url=""https://www.salesforce.com/form/starter/overview-demo/?d=pb"" data-link-type=""secondary cta"">
+        <a class=""cta_button"" data-size="""" data-variant=""secondary"" data-stacking=""default"" aria-label=""Watch demo: Salesforce Starter Suite"" label=""Watch demo"" href=""https://www.salesforce.com/form/starter/overview-demo/?d=pb"" target=""_self"" rel=""noopener"">
+        Watch demo
+        </a>
+    </pbc-button>
+    
+
+</div>
+
+        
+    </div>
+
+        </article>
+    </div>
+        
+        
+            
+
+
+
+
+<div class=""blade__background blade__background--custom-desktop"">
+
+        <img loading=""lazy"" src=""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?w=1024"" class=""background__image background__image--custom"" alt="""" sizes=""100vw"" srcset=""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=150,150 150w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=300,94 300w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=768,240 768w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=1024,320 1024w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=1536,480 1536w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=2048,640 2048w"" height=""100%"" width=""100%"">
+    
+</div>
+
+
+
+<div class=""blade__background blade__background--custom-mobile"">
+
+        <img loading=""lazy"" src=""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?w=731"" class=""background__image background__image--custom"" alt="""" sizes=""100vw"" srcset=""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=150,150 150w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=214,300 214w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=768,1076 768w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=731,1024 731w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=1096,1536 1096w,https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=1462,2048 1462w"" height=""100%"" width=""100%"">
+    
+</div>
+
+
+
+        
+</section>
+
+
+
+            </div>
+            
+        </div> <p>Unite marketing, sales, and service in a single app. Try Salesforce Starter Suite today. There's nothing to install. No credit card required.</p>
+"",""link_1"":{""variant"":""primary"",""label"":""Start free trial"",""url"":""https://www.salesforce.com/form/signup/freetrial-salesforce-starter/?d=pb"",""target"":""_self"",""ariaLabel"":""Start free trial: Salesforce Starter Suite""},""link_2"":{""variant"":""secondary"",""label"":""Watch demo"",""url"":""https://www.salesforce.com/form/starter/overview-demo/?d=pb"",""ariaLabel"":""Watch demo: Salesforce Starter Suite"",""target"":""_self""},""media"":{""video"":{""uuid"":""36VVB6i89Kf1goKxxoQgDb"",""label"":""Demo giving an overview of key features in Salesforce Starter Suite.""}},""blade_background_type"":{""kind"":""custom_background"",""blade_custom_image_desktop"":{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?w=1024"",""alt"":"""",""title"":""2023/12/php-marquee-starter-lg-bg.jpg"",""sizes"":[{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=150,150"",""width"":150,""height"":150},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=300,94"",""width"":300,""height"":94},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=768,240"",""width"":768,""height"":240},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=1024,320"",""width"":1024,""height"":320},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=1536,480"",""width"":1536,""height"":480},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-lg-bg.jpg?resize=2048,640"",""width"":2048,""height"":640}],""width"":1024,""height"":320},""blade_custom_image_mobile"":{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?w=731"",""alt"":"""",""title"":""2023/12/php-marquee-starter-sm-bg.jpg"",""sizes"":[{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=150,150"",""width"":150,""height"":150},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=214,300"",""width"":214,""height"":300},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=768,1076"",""width"":768,""height"":1076},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=731,1024"",""width"":731,""height"":1024},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=1096,1536"",""width"":1096,""height"":1536},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/12/php-marquee-starter-sm-bg.jpg?resize=1462,2048"",""width"":1462,""height"":2048}],""width"":731,""height"":1024}}},""path"":""/"",""urlLoc"":""us"",""curHref"":""/?bc=HA"",""tbidGreeting"":{""isEnabled"":true,""localization"":{""localizedGreeting"":""Hello, {firstname}!"",""localizedWordForBadges"":""Badges"",""localizedWordForPoints"":""Points""},""localizationString"":""{""localizedGreeting"":""Hello, {firstname}!"",""localizedWordForBadges"":""Badges"",""localizedWordForPoints"":""Points""}"",""thEndpoint"":""https://mobile.api.trailhead.com/graphql""},""pageAttrs"":{""livechat"":{""enabled"":true}},""curLocale"":""en-us"",""esiEndpoint"":""https://experimentation.digital.salesforce.com"",""esiBladeVars"":""%7B%22id%22%3A%221695755036143_eii%22%2C%22name%22%3A%22sf%2Fmarquee%22%2C%22attributes%22%3A%7B%22blade_layout%22%3A%22right%22%2C%22audience_segment%22%3A%5B%22prospect%22%5D%2C%22image_overflow%22%3Afalse%2C%22experiment_id%22%3A%2203082024_us_homepage_marquee_world-tour-dc%22%2C%22experiment_type%22%3A%22content%22%2C%22headline%22%3A%22Try%20Salesforce%20Starter%20Suite%20for%20free.%22%2C%22headline_size%22%3A%22standard%22%2C%22description%22%3A%22%3Cp%3EUnite% <p>Browse our AppExchange marketplace, with thousands of customized apps and specialized consulting partners to help any sized business craft a perfectly tailored Customer 360 solution.</p>
+"",""link_1"":{""variant"":""secondary"",""label"":""Visit AppExchange"",""url"":""https://appexchange.salesforce.com/?d=cta-appex-1-ungated-overview"",""target"":""_self""},""media"":{""image"":{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/01/php-appy-appexchange.jpg?w=1024"",""alt"":""Logos for app partners zelrose, conga and Tableau."",""title"":""2023/01/php-appy-appexchange.jpg"",""sizes"":[{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/01/php-appy-appexchange.jpg?resize=150,150"",""width"":150,""height"":150},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/01/php-appy-appexchange.jpg?resize=300,300"",""width"":300,""height"":300},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/01/php-appy-appexchange.jpg?resize=768,768"",""width"":768,""height"":768},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/01/php-appy-appexchange.jpg?resize=1024,1024"",""width"":1024,""height"":1024}],""width"":1024,""height"":1024}}},""path"":""/"",""urlLoc"":""us"",""curHref"":""/?bc=HA"",""pageAttrs"":{""livechat"":{""enabled"":true}},""curLocale"":""en-us""},{""id"":""1710538399066_uqz"",""name"":""sf/contactus"",""attributes"":{""audience_segment"":[""prospect""],""experiment_type"":""content"",""headline"":""Ready to take the next step with the world’s #1 CRM?"",""blade_background_type"":{""kind"":""standard_background"",""blade_background_image"":{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/03/php-contact-us-footer.jpg?w=1024"",""alt"":"""",""title"":""2024/03/php-contact-us-footer.jpg"",""sizes"":[{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/03/php-contact-us-footer.jpg?resize=150,150"",""width"":150,""height"":150},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/03/php-contact-us-footer.jpg?resize=300,112"",""width"":300,""height"":112},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/03/php-contact-us-footer.jpg?resize=768,287"",""width"":768,""height"":287},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/03/php-contact-us-footer.jpg?resize=1024,383"",""width"":1024,""height"":383},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/03/php-contact-us-footer.jpg?resize=1536,574"",""width"":1536,""height"":574},{""src"":""https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/03/php-contact-us-footer.jpg?resize=2048,765"",""width"":2048,""height"":765}],""width"":1024,""height"":383}}},""media_items"":[{""icon"":{""src"":""https://www.salesforce.com/content/dam/web/global/svg-icons/screen.svg""},""headline"":""Start your trial."",""description"":""<p>Try Salesforce for free. No credit card required, no software to install.</p>
+"",""link"":{""url"":""https://www.salesforce.com/form/signup/freetrial-sales/?d=pb"",""variant"":""text"",""label"":""Try for free""},""kind"":""card_contactus"",""id"":""1710538399189_161""},{""icon"":{""src"":""https://www.salesforce.com/content/dam/web/global/svg-icons/call.svg""},""headline"":""Talk to an expert."",""description"":""<p>Tell us a bit more so the right person can reach out faster.</p>
+"",""link"":{""url"":""https://www.salesforce.com/form/contact/contactme-sales/?d=pb"",""variant"":""text"",""label"":""Request a call""},""kind"":""card_contactus"",""id"":""1710538399195_bzx""},{""icon"":{""src"":""https://www.salesforce.com/content/dam/web/global/svg-icons/email.svg""},""headline"":""Stay up to date."",""description"":"" ","t ctas__2"">
+    
+
+    
+        
+    
+    
+        
+    
+    <pbc-button class=""cta_button__wrapper"" data-link-text=""Start free trial"" data-link-url=""https://www.salesforce.com/form/signup/freetrial-salesforce-starter/?d=pb"" data-link-type=""primary cta"">
+        <a class=""cta_button"" data-size="""" data-variant=""primary"" data-stacking=""default"" aria-label=""Start free trial: Salesforce Starter Suite"" href=""https://www.salesforce.com/form/signup/freetrial-salesforce-starter/?d=pb"" target=""_self"" rel=""noopener"">
+        Start free trial
+        </a>
+    </pbc-button>
+
+
+    
+        
+    
+    
+        
+    
+    <pbc-button class=""cta_button__wrapper"" data-link-text=""Watch demo"" data-link-url=""https://www.salesforce.com/form/starter/overview-demo/?d=pb"" data-link-type=""secondary cta"">
+        <a class=""cta_button"" data-size="""" data-variant=""secondary"" data-stacking=""default"" aria-label=""Watch demo: Salesforce Starter Suite"" label=""Watch demo"" href=""https://www.salesforce.com/form/starter/overview-demo/?d=pb"" target=""_self"" rel=""noopener"">
+        Watch demo
+        </a>
+    </pbc-button>
+    
+
+</div>
+
+        
+    </div>
+
+        </article>
+    </div>
+        
+        
+            
+
+
+
+
+<div class=""blade__back ss=""card card__1 card__wrapper"" data-module-id=""1710538399189_161"" data-module-type=""card_contactus"" data-module-name=""Start your trial."" data-module-position=""1"">
+                <div class=""card--card_contactus pbc-g-elevation-2 flex border-rad-16"">
+                    
+                        
+
+<div class=""card__image__wrapper"">
+    
+    <div class=""card__icon__wrapper"">
+        
+        <img class=""card__brand__image"" src=""https://www.salesforce.com/content/dam/web/global/svg-icons/screen.svg"" loading=""lazy"" aria-hidden=""true"" aria-label="""">
+    
+    </div>
+    
+</div>
+<div class=""card__content__wrapper"">
+    <div class=""card__copy__wrapper"">
+        
+<h3 class=""card__headline mt-8 mb-8 mobile-mt-8 mobile-mb-8 pbc-g-text-display-6"" style="""">
+    
+    Start your trial.
+    
+</h3>
+
+        <div class=""card__description pbc-g-text-body-2 mobile-mb-20 mb-32 mt-8"">
+            
+    <p>Try Salesforce for free. No credit card required, no software to install.</p>
+
+
+        </div>
+    </div>
+    <div class=""cta_container flex"">
+        
+              
+
+    
+        
+    
+    
+        
+    
+    <pbc-button class=""cta_button__wrapper"" data-link-text=""Try for free"" data-link-url=""https://www.salesforce.com/form/signup/freetrial-sales/?d=pb"" data-link-type=""primary cta"">
+        <a class=""cta_button"" data-size="""" data-variant=""cardText"" data-stacking=""default"" aria-label=""Try for free: Start your trial."" href=""https://www.salesforce.com/form/signup/freetrial-sales/?d=pb"">
+        Try for free
+        </a>
+    </pbc-button>
+
+
+
+        
+    </div>
+</div>
+
+                    
+                </div>
+            </article>
+        
+            <article class=""card card__2 card__wrapper"" data-module-id=""1710538399 <style id=""inert-style"">
+[inert] {
+	pointer-events: none;
+	cursor: default;
+}
+
+[inert], [inert] * {
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+}
+</style><meta http-equiv=""origin-trial"" content=""AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9""><meta http-equiv=""origin-trial"" content=""AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9""><meta http-equiv=""origin-trial"" content=""AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9""><meta http-equiv=""origin-trial"" content=""AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9""><meta http-equiv=""origin-trial"" content=""AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9""> "
+"<body class=""homepage alert-country"" data-language=""fr"" data-country=""fr"" data-country-code=""270001"" data-country-label=""France"" data-error=""Une erreur est survenue"" data-favorite-shop-id=""-1"" data-favorite-shop-title="""" data-favorite-shop-city="""" data-favorite-shop-in-configurator=""""><div id=""cookieConsentBanner""><div class=""cookie-banner""><h2>C'est vous qui décidez !</h2><div class=""cookie-banner-content dsp-table""><div class=""dsp-text""><p>Notre site LDLC.com utilise des cookies ou des technologies similaires pour vous proposer des services et offres adaptés à vos centres d’intérêt, vous garantir une meilleure expérience utilisateur et réaliser des statistiques de visites. <a href=""https://www.ldlc.com/aide/69-declaration-relative-aux-cookies/"" target=""CookiesPolicies"">En savoir plus.</a></p></div></div><div class=""cookie-button""><div><button type=""button"" id=""cookieConsentRefuseButton"" class=""button outline color8 noMarge"">Refuser</button></div><div><a class=""button outline color8 noMarge"" href=""#"" id=""cookieConsentParametersButton"" data-toggle=""modal"" data-target=""#modal-cookies"" data-remote=""false"">Paramétrer</a></div><div><button type=""button"" id=""cookieConsentAcceptButton"" class=""button color4 noMarge"">J'accepte</button></div></div></div></div>
+    <script src=""/ps/events.js"" defer=""true"" data-domain=""ldlc.com""></script><script>
+    let body = document.querySelector('body');
+    body.setAttribute('data-favorite-shop-id', '-1');
+    body.setAttribute('data-favorite-shop-title', '');
+    body.setAttribute('data-favorite-shop-city', '');
+    body.setAttribute('data-favorite-shop-in-configurator', '');
+</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+        <iframe src=""https://www.googletagmanager.com/ns.html?id=GTM-MFCHFFT"" height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id=""cookieConsent""></div>
+            
+        <header>
+    <div class=""alert-country-banner"" id=""localisation-banner""><div class=""container"" data-cookie=""language"">
+    <div class=""wrap-alert"">
+        <div class=""text"">
+            <p><strong>You are currently in the french version of LDLC website.</strong></p>
+            <p class=""hidden-xxs"">We suggest you to use our website in another language:</p>
+        </div>
+        <form>
+            <div class=""change"">
+                <div class=""select""><select name=""localeCountry"" id=""localeCountry"" class=""select-hidden"">
+                                                                        <option value=""fr-fr"">french</option>
+                                                                                                <option value=""en-ix"" selected=""selected"">english</option>
+                                                                                                <option value=""es-es"">spanish</option>
+                                                                                                <option value=""it-it"">italian</option>
+                                                            </select><div class=""select-styled""><span>english<span></span></span></div><ul class=""select-options""><li rel=""fr-fr"" class=""  "">french</li><li rel=""en-ix"" class="" hidden "">english</li><li rel=""es-es"" class=""  "">spanish</li><li rel=""it-it"" class=""  "">italian</li></ul></div>
+                <input hidden="""" name=""type"" value=""consent-country"">
+                <div>
+                    <button type=""submit"" class=""button color4 noMarge go"">Go <span class=""fleche"">›</span></button>
+                </div>
+            </div>
+        </form>
+        <div class=""closing""><a href=""#"" class=""close""><span class=""icon icon-close""></span></a></div>
+    </div>
+</div>
+</div>
+    <div class=""top"">
+        <div class=""container"">
+            <div class=""wrap-header""> <div class=""sub submenu-container sub-4"" data-id-ajax=""ajax-c7"" id=""c-7"" style=""display: none;"">&nbsp;</div></li><li data-id-trigger=""trigger-c6"" data-submenu-id=""c-6""><a href=""https://www.ldlc.com/connectiques/cint3888/""><img alt="""" data-entity-type=""file"" data-entity-uuid=""caee6fb1-afd9-4473-b42d-c34e98766e50"" height=""100"" src=""https://media.ldlc.com/nbo/ldlc/menu/editor/953e6667dcb2f1a909c1f5993ffb08c91cec554f.png"" width=""100"">Connectique<span class=""icon icon-arrow-right-extrabold"">&nbsp;</span></a><div class=""sub submenu-container sub-4"" data-id-ajax=""ajax-c6"" id=""c-6"" style=""display: none;"">&nbsp;</div></li><li class=""MobileOnly"" data-submenu-id=""c-8""><a href=""https://www.ldlc.com/n5351/tech-it-easy/"">Nos guides d'achat</a></li></ul></div></li><li><a href=""https://www.ldlc.com/configurateur/""><span class=""icon icon-cat icon-tools"">&nbsp;</span> <span>Configurateur PC</span> </a></li><!--<li><a href=""https://www.ldlc.com/n2193/coin-des-affaires/""><span class=""icon icon-cat icon-eur"" style=""color: #FFC800;"">&nbsp;</span><span style=""color: #FFC800;"">Soldes</span> </a></li>--><li><a href=""https://www.ldlc.com/n6222/""><span class=""icon icon-cat icon-loop"">&nbsp;</span> <span>Seconde vie</span> </a></li><li class=""nav_promo cat"" data-id-trigger=""trigger-promo""><div class=""cat-arrow""><span class=""icon icon-cat icon-percent"">&nbsp;</span> <span>Promotions</span> <span class=""icon icon-arrow-bottom-extrabold"">&nbsp;</span></div><div class=""sub-cat center-sub dsp-table"" data-id-ajax=""ajax-promo"">&nbsp;</div></li><li><a href=""https://www.ldlc.com/nouveautes/""><span class=""icon icon-cat icon-new"">&nbsp;</span> <span>Nouveautés</span> </a></li><li><a href=""https://www.ldlc.com/n5816/""><span class=""icon icon-cat icon-like"">&nbsp;</span> <span>Services</span> </a></li><li><a href=""https://www.ldlc.com/aide/""><span class=""icon icon-cat icon-question"">&nbsp;</span> <span>Besoin d'aide</span> </a></li><!--<li><a href=""https://www.ldlc.com/aide/219-informations-covid-19/""><span class=""icon icon-cat icon-error"" style=""color: #FFC800;"">&nbsp;</span> <span style=""color: #FFC800;"">Infos COVID-19</span> </a></li>--></ul>
+        </div>
+        <a href=""#"" class=""back-top"">
+            <span class=""icon icon-arrow-top""></span>
+        </a>
+    </div>
+</nav>
+
+<script>
+            if (document.querySelector('.wrap-stock .stock-shop')) {
+            document.querySelector('.wrap-stock .stocks').append('<div class=""stock-shop""><strong>Boutique</strong><div></div></div>');
+        }
+        if ( document.querySelector('.wrap-stock .stocks')) {
+            document.querySelector('.wrap-stock .stocks').classList.add('info-stock-shop');
+        }
+            </script>
+
+    </header>
+
+<div class=""ajaxWait"" style=""display:none;""></div>
+    <div class=""main home"">
+        <section class=""home-swiper"">
+    <div class=""swiper gallery-top swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden"">
+        <div class=""swiper-wrapper"" style=""transition-duration: 0ms; transform: translate3d(-2420px, 0px, 0px);""><div class=""swiper-slide"" data-bg="""" data-swiper-autoplay=""8000"" style=""width: 1210px;""><div class=""content""><a href=""https://www.ldlc.com/n4067/""><picture><source media=""(max-width: 480px)"" srcset=""https://media.ldlc.com/encart/p/23403_v.jpg""><source media=""(min-width: 479px)"" srcset=""https://media.ldlc.com/encart/p/23403_b.jpg""><img data-track-content="""" loading=""lazy"" data-content-name=""Encart home"" data-content-piece=""L001111"" data-content-target=""https://www.ldlc.com/n4067/"" data-image-url=""https://media.ldlc.com/encart/p/23403_b.jpg"" src=""https://media.ldlc.com/encart/p/23403_b.jpg"" alt=""L001111""></picture></a></div></div><div class=""swiper-slide swiper-slide-prev"" data-bg="""" style=""width: 1210px;""> <link rel=""mask-icon"" href=""/build/img/common/favicon/safari-pinned-tab.svg"" color=""#243774"">
+    <script async="""" src=""https://tracking.groupe-ldlc.com/matomo.js""></script><script async="""" src=""https://www.googletagmanager.com/gtm.js?id=GTM-MFCHFFT""></script><script type=""text/javascript"" src=""/js/libs/jquery-3.6.1.min.js?5.19.30""></script>
+    <script src=""/V4px/js/ldlcmachine.js"" async=""""></script>
+            
+    <script type=""application/ld+json""> {
+	""@context"": ""https://schema.org"",
+	""@type"": ""Organization"",
+	""url"": ""https://www.ldlc.com/"",
+	""logo"": ""https://www.ldlc.com/build/img/common/LDLC-logo.gif"",
+    ""contactPoint"": [
+	    {
+            ""@type"": ""ContactPoint"",
+            ""telephone"": ""+33427466000"",
+            ""contactType"": ""customer service""
+		}
+    ]
+ } </script>
+
+    <script type=""application/ld+json""> {
+        ""@context"": ""https://schema.org"",
+        ""@type"": ""WebSite"",
+        ""name"": ""LDLC"",
+        ""url"": ""https://www.ldlc.com/"",
+        ""potentialAction"": {
+            ""@type"": ""SearchAction"",
+                        ""target"": ""https://www.ldlc.com/recherche/{search_term_string}/"",
+            ""query-input"": ""required name=search_term_string""
+            }
+        }
+    </script>
+            <!-- Google Tag Manager -->
+        <script>
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-MFCHFFT');
+        </script>
+        <!-- End Google Tag Manager -->
+        <!-- Matomo -->
+    <script>
+        var _paq = window._paq = window._paq || [];
+        _paq.push(['setCookieDomain', '*.ldlc.com']);
+        _paq.push(['setDomains', '*.ldlc.com']);
+        _paq.push(['enableLinkTracking']);
+        _paq.push(['trackVisibleContentImpressions']);
+        _paq.push(['setConversionAttributionFirstReferrer', true]);
+        _paq.push(['trackPageView']);
+        (function() {
+            var u=""https://tracking.groupe-ldlc.com/"";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <!-- End Matomo Code --> ","m/configurateur/""><span class=""icon icon-cat icon-tools"">&nbsp;</span> <span>Configurateur PC</span> </a></li><!--<li><a href=""https://www.ldlc.com/n2193/coin-des-affaires/""><span class=""icon icon-cat icon-eur"" style=""color: #FFC800;"">&nbsp;</span><span style=""color: #FFC800;"">Soldes</span> </a></li>--><li><a href=""https://www.ldlc.com/n6222/""><span class=""icon icon-cat icon-loop"">&nbsp;</span> <span>Seconde vie</span> </a></li><li class=""nav_promo cat"" data-id-trigger=""trigger-promo""><div class=""cat-arrow""><span class=""icon icon-cat icon-percent"">&nbsp;</span> <span>Promotions</span> <span class=""icon icon-arrow-bottom-extrabold"">&nbsp;</span></div><div class=""sub-cat center-sub dsp-table"" data-id-ajax=""ajax-promo"">&nbsp;</div></li><li><a href=""https://www.ldlc.com/nouveautes/""><span class=""icon icon-cat icon-new"">&nbsp;</span> <span>Nouveautés</span> </a></li><li><a href=""https://www.ldlc.com/n5816/""><span class=""icon icon-cat icon-like"">&nbsp;</span> <span>Services</span> </a></li><li><a href=""https://www.ldlc.com/aide/""><span class=""icon icon-cat icon-question"">&nbsp;</span> <span>Besoin d'aide</span> </a></li><!--<li><a href=""https://www.ldlc.com/aide/219-informations-covid-19/""><span class=""icon icon-cat icon-error"" style=""color: #FFC800;"">&nbsp;</span> <span style=""color: #FFC800;"">Infos COVID-19</span> </a></li>--></ul>
+        </div>
+        <a href="" -                         <a href=""/jeux-loisirs/accessoires/volant-pc/c4441/"">Volant PC</a>
+                                                                                                                     -                         <a href=""/jeux-loisirs/accessoires/accessoires-ps5/c7869/"">Accessoires PS5</a>
+                                                                                                                     -                         <a href=""/jeux-loisirs/accessoires/joypad/c4435/"">Manette PC</a>
+                                                                                                                     -                         <a href=""/jeux-loisirs/accessoires/joystick/c4436/"">Joystick</a>
+                                                                                                                     -                         <a href=""/jeux-loisirs/console/console-nintendo-switch/c7600/"">Console Nintendo Switch</a>
+                                                                                                                     -                         <a href=""/jeux-loisirs/console/console-xbox-series/c7866/"">Console Xbox Series</a>
+                                                                                                                     -                         <a href=""/jeux-loisirs/accessoires/accessoires-xbox-series/c7870/"">Accessoires Xbox Series</a>
+                                                                                                                     -                         <a href=""/jeux-loisirs/console/autres-consoles/c7763/"">Autres consoles</a>
+                                                                                                                     -                         <a href=""/jeux-loisirs/accessoires/accessoires-ps4/c5348/"">Accessoires PS4</a> <a href=""/informatique/ordinateur-de-bureau/pc-de-marque/c4250/"">PC de bureau</a> "
+"<div class=""index-search"" id=""main-cta-top""><div class=""index-search-flags svelte-9w4tc5""><div class=""suggest-wrap svelte-ambpd9""><div class=""index-search__input""><input type=""text"" class=""index-search__input-value index-search__input-value--xl svelte-ambpd9"" aria-label=""Enter domain, keyword or URL"" placeholder=""Enter domain, keyword or URL"" role=""combobox"" aria-autocomplete=""list"" aria-controls=""suggest-list"" aria-expanded=""false""> <div class=""index-search__input-outline  svelte-ambpd9""></div></div> <ul class=""suggest-list  svelte-ambpd9"" id=""suggest-list"" role=""listbox"" aria-label=""Suggestions""></ul></div> <div class=""flags-wrap svelte-1rxywbw""><div class=""flags-select svelte-8165bx""><button type=""button"" class=""flags-select__dropdown flags-select__dropdown--xl  svelte-8165bx"" data-ga-event-onclick="""" data-ga-category=""page:main"" data-ga-action=""button.click:open_flags"" data-test=""main-input__open-flags"" aria-label=""UnitedStates"" aria-haspopup=""listbox"" aria-controls="""" aria-expanded=""false""><span class=""flags-select__flag flag-UnitedStates-1_0_1 svelte-8165bx""></span> <span>us</span> <span class=""flags-select__arrow svelte-8165bx"" aria-hidden=""true""><svg preserveAspectRatio=""xMidYMid meet"" viewBox=""0 0 16 16"" width=""16"" height=""16""><path fill-rule=""evenodd"" clip-rule=""evenodd"" d=""M3.293 5.293a1 1 0 0 1 1.414 0L8 8.586l3.293-3.293a1 1 0 1 1 1.414 1.414l-4 4a1 1 0 0 1-1.414 0l-4-4a1 1 0 0 1 0-1.414Z"" fill=""#898D9A""></path></svg></span></button></div> </div></div> <button type=""button"" tabindex=""0"" class=""index-search-start index-button index-button--xl svelte-9w4tc5"" data-test=""main-cta__btn""><span class=""index-button__inner""><span class=""index-button__text"">Start now</span></span></button></div>
+
+  <script>
+    performance.mark('index__render_main_cta_no_js');
+  </script>
+
+        </div>
+
+        
+  <div class=""index-header__clients"">
+    <div class=""index-header__clients-title"">
+      Trusted by the world’s leading brands
+    </div>
+    <div class=""index-header__logos js-logos animated animate"" data-animated="""">
+      <div class=""index-header__logos-inner index-header__logos-inner--first js-logos-first"">
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""109"" src=""https://cdn.semrush.com/static/index/logos/Tesla_logo.f58ace4c9fc6.svg"" alt=""Tesla"">
+        </div>
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""118"" src=""https://cdn.semrush.com/static/index/logos/Decathlon_logo.f70c6df7551d.svg"" alt=""Decathlon"">
+        </div>
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""46"" src=""https://cdn.semrush.com/static/index/logos/P&amp;G_logo.519f594baedb.svg"" alt=""P&amp;G"">
+        </div>
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""125"" src=""https://cdn.semrush.com/static/index/logos/Samsung_logo.239198909542.svg"" alt=""Samsung"">
+        </div>
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""53"" src=""https://cdn.semrush.com/static/index/logos/LaLiga_logo.48646441c2cf.svg"" alt=""LaLiga"">
+        </div>
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""90"" src=""https://cdn.semrush.com/static/index/logos/FedEx_logo.75f06ad8be68.svg"" alt=""FedEx"">
+        </div>
+      </div>
+      <div class=""index-header__logos-inner index-header__logos-inner--second"">
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""82"" alt=""Amazon"" src=""https://cdn.semrush.com/static/index/logos/Amazon_logo.f2f865a436a0.svg"">
+        </div>
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""92"" alt=""Quora"" src=""https://cdn.semrush.com/static/index/logos/Quora_logo.84e485dbc949.svg"">
+        </div>
+        <div class=""index-header__logo"">
+          <img height=""42"" width=""32"" alt=""General Electric"" src=""https://cdn.semrush.com/static/index/logos/General_Electric_logo.bab81321a38c.svg"">
+        </div> <div class=""ch2-container ch2-theme-bar  ch2-style-light ch2-ea""><div class=""ch2-dialog ch2-dialog-bottom ch2-visible"" role=""dialog"" aria-labelledby=""ch2-dialog-title"" aria-describedby=""ch2-dialog-description""><div class=""ch2-dialog-content ""><p id=""ch2-dialog-title""><strong>About cookies on this site</strong></p><p id=""ch2-dialog-description"">We use cookies to run our website, analyze your use of our services, manage your online preferences &amp; personalize ad content. By accepting our cookies, you'll get relevant content and social media features, personalized ads, and an enhanced browsing experience. To manage your choices, click “Cookie Settings.”  Necessary cookies are required for the core website functionality and cannot be rejected. For more information, see our</p><p><a href=""https://www.semrush.com/company/legal/cookie-policy/"" rel=""noopener"" target=""_self"" class=""ch2-learn-more"">Cookie Policy.</a></p></div><div class=""ch2-dialog-actions ""><button class=""ch2-btn ch2-open-personal-data-btn ch2-btn-text"">Do not sell or share my personal information</button><button class=""ch2-btn ch2-allow-all-btn ch2-btn-primary"">Allow all cookies</button></div></div><div class=""ch2-settings ch2-settings-scan"" role=""dialog"" aria-labelledby=""ch2-settings-title"" aria-describedby=""ch2-settings-description""><div class=""ch2-settings-header""><button class=""ch2-close-settings-btn"" aria-label=""Close""></button><p id=""ch2-settings-title"" tabindex=""0""><strong>About cookies on this site</strong></p></div><div class=""ch2-settings-tabs""><div id=""ch2-scroller-left"" class=""ch2-settings-scroller ch2-scroller-left"" style=""visibility: hidden"">❮</div><div id=""ch2-scroller-right"" class=""ch2-settings-scroller ch2-scroller-right"">❯</div><div class=""ch2-settings-tablist-wrap""><ul id=""ch2-settings-tablist"" role=""tablist""><li class=""active"" role=""presentation""><a href=""#ch2-settings"" id=""ch2-settings-tab"" aria-selected=""true"" aria-controls=""ch2-settings"" role=""tab"" class=""ch2-select-tab"">Categories</a></li><li class="""" role=""presentation""><a href=""#ch2-personal-data"" id=""ch2-personal-data-tab"" aria-selected=""false"" aria-controls=""ch2-personal-data"" role=""tab"" class=""ch2-select-tab"">Personal data</a></li><li class="""" role=""presentation""><a href=""#ch2-declaration"" id=""ch2-declaration-tab"" aria-selected=""false"" aria-controls=""ch2-declaration"" role=""tab"" class=""ch2-select-tab"">Cookie Policy</a></li></ul></div></div><div class=""ch2-settings-content""><div class=""ch2-settings-tab-container"" id=""ch2-settings""><p id=""ch2-settings-description"">Cookies used on the site are categorized and below you can read about each category and allow or deny some or all of them, except for Necessary Cookies which are required to provide core website functionality. When categories that have been previously allowed are disabled, all cookies assigned to that category will be removed from your browser.  You can see a list of cookies assigned to each category and detailed information on those cookies in the “Cookie Policy” tab.</p><p><a href=""https://www.semrush.com/company/legal/cookie-policy/"" rel=""noopener"" target=""_self"" class=""ch2-learn-more"">Cookie Policy.</a></p><button class=""ch2-btn ch2-btn-secondary ch2-allow-all-btn"">Allow all cookies</button><div class=""ch2-settings-options""><div class=""ch2-settings-option""><div class=""ch2-switch""><input type=""checkbox"" class=""ch2-switch-value"" name=""c-1"" role=""switch"" aria-labelledby=""ch2-c-1-title"" id=""c2-c-1"" disabled="""" data-event=""true""><label for=""c2-c-1"" aria-hidden=""true"" tabindex=""-1""></label></div><div class=""ch2-settings-option-details""><p id=""ch2-c-1-title""><strong>Necessary cookies</strong></p><p>Some cookies are required to provide core functionality. The website won't function properly without these cookies and they are enabled by default and cannot be disabled.</p></div></div><div class=""ch2-settings-option""> <div class=""ch2-settings-option""><div class=""ch2-switch""><input type=""checkbox"" class=""ch2-switch-value"" name=""c-2"" role=""switch"" aria-labelledby=""ch2-c-2-title"" id=""c2-c-2"" data-event=""true""><label for=""c2-c-2"" aria-hidden=""true"" tabindex=""-1""></label></div><div class=""ch2-settings-option-details""><p id=""ch2-c-2-title""><strong>Preferences</strong></p><p>Preference cookies enables the web site to remember information to customize how the web site looks or behaves for each user. This may include storing selected currency, region, language or color theme.</p></div></div><div class=""ch2-settings-option""><div class=""ch2-switch""><input type=""checkbox"" class=""ch2-switch-value"" name=""c-3"" role=""switch"" aria-labelledby=""ch2-c-3-title"" id=""c2-c-3"" data-event=""true""><label for=""c2-c-3"" aria-hidden=""true"" tabindex=""-1""></label></div><div class=""ch2-settings-option-details""><p id=""ch2-c-3-title""><strong>Analytical cookies</strong></p><p>Analytical cookies help us improve our website by collecting and reporting information on its usage.</p></div></div><div class=""ch2-settings-option""><div class=""ch2-switch""><input type=""checkbox"" class=""ch2-switch-value"" name=""c-4"" role=""switch"" aria-labelledby=""ch2-c-4-title"" id=""c2-c-4"" data-event=""true""><label for=""c2-c-4"" aria-hidden=""true"" tabindex=""-1""></label></div><div class=""ch2-settings-option-details""><p id=""ch2-c-4-title""><strong>Marketing cookies</strong></p><p>Marketing cookies are used to track visitors across websites to allow publishers to display relevant and engaging advertisements. By enabling marketing cookies, you grant permission for personalized advertising across various platforms.</p></div></div><div class=""ch2-settings-option""><div class=""ch2-switch""><input type=""checkbox"" class=""ch2-switch-value"" name=""c-5"" role=""switch"" aria-labelledby=""ch2-c-5-title"" id=""c2-c-5"" data-event=""true""><label for=""c2-c-5"" aria-hidden=""true"" tabindex=""-1""></label></div><div class=""ch2-settings-option-details""><p id=""ch2-c-5-title""><strong>Other cookies</strong></p><p>The cookies in this category have not yet been categorized and the purpose may be unknown at this time.</p></div></div></div></div><div class=""ch2-settings-tab-container"" id=""ch2-declaration"" role=""tabpanel"" aria-labelledby=""ch2-declaration-tab"" style=""display:none""><div class=""ch2-settings-declaration""><p>Cookies used on the site are categorized and below you can read about each category and allow or deny some or all of them, except for Necessary Cookies which are required to provide core website functionality. When categories that have been previously allowed are disabled, all cookies assigned to that category will be removed from your browser.  You can see a list of cookies assigned to each category and detailed information on those cookies in the “Cookie Policy” tab.</p><p><a href=""https://www.semrush.com/company/legal/cookie-policy/"" rel=""noopener"" target=""_self"" class=""ch2-learn-more"">Cookie Policy.</a></p><div class=""ch2-settings-options""> ","mbpd9""><div class=""index-search__input""><input type=""text"" class=""index-search__input-value index-search__input-value--xl svelte-ambpd9"" aria-label=""Enter domain, keyword or URL"" placeholder=""Enter domain, keyword or URL"" role=""combobox"" aria-autocomplete=""list"" aria-controls=""suggest-list"" aria-expanded=""false""> <div class=""index-search__input-outline  svelte-ambpd9""></div></div> <ul class=""suggest-list  svelte-ambpd9"" id=""suggest-list"" role=""listbox"" aria-label=""Suggestions""></ul></div> <div class=""flags-wrap svelte-1rxywbw""><div class=""flags-select svelte-8165bx""><button type=""button"" class=""flags-select__dropdown flags-select__dropdown--xl  svelte-8165bx"" data-ga-event-onclick="""" data-ga-category=""page:main"" data-ga-action=""button.click:open_flags"" data-test=""main-input__open-flags"" aria-label=""UnitedStates"" aria-haspopup=""listbox"" aria-controls="""" aria-expanded=""false""><span class=""flags-select__flag flag-UnitedStates-1_0_1 svelte-8165bx""></span> <span>us</span> <span class=""flags-select__arrow svelte-8165bx"" aria-hidden=""true""><svg preserveAspectRatio=""xMidYMid meet"" viewBox=""0 0 16 16"" width=""16"" height=""16""><path fill-rule=""evenodd"" clip-rule=""evenodd"" d=""M3.293 5.293a1 1 0 0 1 1.414 0L8 8.586l3.293-3.293a1 1 0 1 1 1.414 1.414l-4 4a1 1 0 0 1-1.414 0l-4-4a1 1 0 0 1 0-1.414Z"" fill=""#898D9A""></path></svg></span></button></div> </div></div> <button type=""button"" tabindex=""0"" class=""index-search-start index-button index-button--xl svelte-9w4tc5"" data-test=""main-cta__btn""><span class=""index-button__inner""><span class=""index-button__text"">Start now</span></span></button></div>
+
+  <script>
+    performance.mark('index__render_main_cta_no_js');
+  </script>
+
+        </div>
+
+        
+  <div class=""index-header__clients"">
+    <div class=""index-header__clients-title"">
+      Trusted by the world’s leading e=""tabpanel"" aria-labelledby=""toolkit-seo"" data-active=""true"" aria-hidden=""false"">
+            <div class=""index-features__tab index-features__tab--active js-swiper-tab-mobile js-swiper-tab"" data-type=""seo"" aria-selected=""true"">
+              <svg class=""index-features__tab-icon"" width=""64"" height=""64"" aria-hidden=""true"" focusable=""false"">
+                <use xlink:href=""#seo""></use>
+              </svg>
+              <div class=""index-features__tab-label"">SEO</div>
+            </div>
+            <div class=""index-features-item__inner"">
+              <div class=""index-features-item__left"">
+                <h3 class=""index-features-item__title"">
+                  Grow organic traﬃc with our complete and easy SEO tools &amp; workﬂow
+                </h3>
+                <ul class=""index-features-item__text index-text"">
+                  <li>Uncover millions of national &amp; local keywords</li>
+                  <li>Analyze any domain’s backlink profile</li>
+                  <li>Run technical SEO audits</li>
+                  <li>Track your SERP positions daily</li>
+                </ul>
+                <a href=""/signup/?src=main_slider&amp;tk=seo"" class=""index-button index-button--l index-button--l index-features-item__btn"" data-toolkit=""seo"" data-ga-event-onclick="""" data-ga-category=""page:main"" data-ga-action=""click:slider_btn_to_tool"" data-ga-label=""seo"" tabindex=""0"">
+                  Try SEO Toolkit
+                </a>
+              </div>
+              <div class=""index-features-item__img-wrap"">
+                <img src=""https://cdn.semrush.com/static/index/tools-new/seo.94e1f354aed0.svg"" alt="""" width=""560"" height=""472"" class=""index-features-item__img"">
+              </div>
+            </div>
+          </div></div><div style=""float: left; width: 12.5%;""><div class=""index-features-item js-slider-item"" data-type=""content"" id=""tabpanel-toolkit-content"" r 2d66; }.ch2-style-light .ch2-switch input:checked + label, .ch2-style-dark .ch2-switch input:checked + label { background: #ff642d }.ch2-style-light.ch2-icon a:hover svg { border: 2px solid #ff642d; fill: #ff642d }.ch2-style-dark.ch2-icon a:hover svg { border: 2px solid #ff642d; background: #ff642d }@media (max-width: 800px) {.ch2-settings-declaration table tbody tr td:not([colspan]):nth-child(1)::before { content: 'Name: '; }.ch2-settings-declaration table tbody tr td:not([colspan]):nth-child(2)::before { content: 'Hostname: '; }.ch2-settings-declaration table tbody tr td:not([colspan]):nth-child(3)::before { content: 'Path: '; }.ch2-settings-declaration table tbody tr td:not([colspan]):nth-child(4)::before { content: 'Expiry: '; }}</style><section data-region=""us-ca"" class=""ch2 ch2-region-us-ca"" data-nosnippet=""true"" style=""""><div class=""ch2-container ch2-theme-bar  ch2-style-light ch2-ea""><div class=""ch2-dialog ch2-dialog-bottom ch2-visible"" role=""dialog"" aria-labelledby=""ch2-dialog-title"" aria-describedby=""ch2-dialog-description""><div class=""ch2-dialog-content "" "
+"<li class=""hsg-footer__nav-item"" data-order=""9"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/cms/drag-and-drop-website-builder?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Free%20Website%20Builder"" data-order=""9"" data-linkorder=""9"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Free Website Builder"">
+        Free Website Builder</a>
+    </li>
+    <li class=""hsg-footer__nav-item"" data-order=""10"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/sales/email-templates-sales?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Sales%20Email%20Templates"" data-order=""10"" data-linkorder=""10"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Sales Email Templates"">
+        Sales Email Templates</a>
+    </li>
+    <li class=""hsg-footer__nav-item"" data-order=""12"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/marketing/forms?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Free%20Online%20Form%20Builder"" data-order=""12"" data-linkorder=""11"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Free Online Form Builder"">
+        Free Online Form Builder</a>
+    </li>
+    <li class=""hsg-footer__nav-item"" data-order=""13"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/crm/chatbot-builder?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Free%20Chatbot%20Builder"" data-order=""13"" data-linkorder=""12"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Free Chatbot Builder"">
+        Free Chatbot Builder</a>
+    </li>
+    <li class=""hsg-footer__nav-item"" data-order=""14"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/crm/live-chat?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Free%20Live%20Chat%20Software"" data-order=""14"" data-linkorder=""13"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Free Live Chat Software"">
+        Free Live Chat Software</a>
+    </li>
+    <li class=""hsg-footer__nav-item"" data-order=""15"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/marketing/analytics?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Marketing%20Analytics"" data-order=""15"" data-linkorder=""14"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Marketing Analytics"">
+        Marketing Analytics</a>
+    </li>
+    <li class=""hsg-footer__nav-item"" data-order=""16"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/marketing/landing-pages?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Free%20Landing%20Page%20Builder"" data-order=""16"" data-linkorder=""15"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Free Landing Page Builder"">
+        Free Landing Page Builder</a>
+    </li>
+    <li class=""hsg-footer__nav-item"" data-order=""17"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/cms/web-hosting?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Free%20Web%20Hosting"" data-order=""17"" data-linkorder=""16"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Free Web Hosting"">
+        Free Web Hosting</a>
+    </li>
+    </ul>
+</section>
+
+      </div> <div class=""wf-page-header__cta-wrapper"">
+            
+              
+
+  
+  
+
+  
+    
+  
+
+  
+
+  
+    
+    
+    
+      <a class=""
+  cl-button -primary -large wf-page-header__cta homepage-hero-cta"" href=""https://offers.hubspot.com/crm-platform-demo?hubs_signup-url=www.hubspot.com&amp;hubs_signup-cta=homepage-hero-cta"" rel=""noreferrer "" data-hs-event-144166708=""1"">
+        Get a demo
+        
+          <span class=""visually-hidden"">of HubSpot's premium software</span>
+        
+      </a>
+    
+
+  
+
+            
+              
+
+  
+  
+
+  
+    
+  
+
+  
+
+  
+    
+    
+    
+      <a class=""
+  cl-button -secondary -large wf-page-header__cta homepage-hero2-cta"" href=""https://app.hubspot.com/signup-hubspot/crm?hubs_signup-url=www.hubspot.com&amp;hubs_signup-cta=homepage-hero2-cta"" rel=""noreferrer "" data-hs-event-96027165=""1"">
+        Get started free
+        
+          <span class=""visually-hidden"">with HubSpot's free tools</span>
+        
+      </a>
+    
+
+  
+
+            
+          </div>
+        
+
+        
+          <p class=""wf-page-header__disclaimer -small"">Get a demo of our premium software, or get started with free tools.</p>
+        
+      </div>
+
+      
+        <div class=""wf-page-header__image-wrapper "">
+          
+          
+          <img src=""https://www.hubspot.com/hs-fs/hubfs/EN%20Round%203%20Variant%201%20Desktop-1.webp?width=1471&amp;height=856&amp;name=EN%20Round%203%20Variant%201%20Desktop-1.webp"" class=""wf-page-header__image"" alt=""View of a HubSpot user's weekly email, calling, and meeting activity, a contact record, and a customer service report in their HubSpot customer platform"" width=""1471"" height=""856"" srcset=""https://www.hubspot.com/hs-fs/hubfs/EN%20Round%203%20Variant%201%20Desktop-1.webp?width=736&amp;height=428&amp;name=EN%20Round%203%20Variant%201%20Desktop-1.webp 736w, https://www.hubspot.com/hs-fs/hubfs/EN%20Round%203%20Variant%201%20Desktop-1.webp?width=1471&amp;height=856&amp;name=EN%20Round%203%20Variant%201%20Desktop-1.webp 1471w, https://www.hubspot.com/hs-fs/hubfs/EN%20Round%203%20Variant%201%20Desktop-1.webp?width=2207&amp;height=1284&amp;name=EN%20Round%203%20Variant%201%20Desktop-1.webp 2207w, https://www.hubspot.com/hs-fs/hubfs/EN%20Round%203%20Variant%201%20Desktop-1.webp?width=2942&amp;height=1712&amp;name=EN%20Round%203%20Variant%201%20Desktop-1.webp 2942w, https://www.hubspot.com/hs-fs/hubfs/EN%20Round%203%20Variant%201%20Desktop-1.webp?width=3678&amp;height=2140&amp;name=EN%20Round%203%20Variant%201%20Desktop-1.webp 3678w, https://www.hubspot.com/hs-fs/hubfs/EN%20Round%203%20Variant%201%20Desktop-1.webp?width=4413&amp;height=2568&amp;name=EN%20Round%203%20Variant%201%20Desktop-1.webp 4413w"" sizes=""(max-width: 1471px) 100vw, 1471px"">
+        </div>
+      
+
+    </div>
+  
+    </div>
+  </section>
+
+
+</div>
+
+<div id=""hs_cos_wrapper_homepage_logo_carousel"" class=""hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"" style="""" data-hs-cos-general-type=""widget"" data-hs-cos-type=""module"">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  <section id=""homepage_logo_carousel"" class=""wf-section wf-logo-carousel -large -white -padding-top-s -padding-bottom-s"" data-desktop-display=""true"">
+    <div class=""wf-section-wrapper"">
+      
+    
+      
+
+  
+    <h2 class=""wf-logo-carousel-header "">194,000+ customers in over 120 countries grow their businesses with HubSpot</h2>
+  
+
+
+    
+  <div class=""cl-carousel -white -no-dots -touch"">
+      <div class=""cl-carousel-rail"" data-cl-carousel=""rail"">
+        <ul class=""cl-carousel-train wf-logo-carousel-container"" style=""transition: transform 0ms ease 0s; width: 5320px; transform: translate3d(-1520px, 0px, 0px);"">
+          
+            <li class=""cl-carousel-slide wf-logo-carousel-logo -clone"" tabindex=""-1"" style=""width: 160px; margin-right: 15px;"" aria-hidden=""true""> <div class=""wf-link-to-content-card-image-wrapper"">
+                <img class=""wf-link-to-content-card-image"" src=""https://www.hubspot.com/hubfs/target-1-1.svg"" alt="""" height=""81"" width=""80"" loading=""lazy"">
+            </div>
+          
+          <div class=""wf-link-to-content-card-text -alignment-center"">
+            <a class=""wf-link-to-content-card-text-link homepage-resources5"" href=""https://www.hubspot.com/startups?hubs_content-cta=homepage-resources5&amp;hubs_content=www.hubspot.com"">
+              
+
+  
+    <h3 class=""wf-link-to-content-card-text-heading "">HubSpot for Startups</h3>
+  
+
+
+            </a>
+            
+              <div class=""wf-link-to-content-card-text-description"">
+                <p>Apply for special pricing, resources, and support for your startup.</p>
+              </div>
+            
+          </div>
+        </li>
+        
+        <li class=""wf-link-to-content-card cl-card -light -container-01
+        
+         wf-link-to-content-hide"">
+          
+            <div class=""wf-link-to-content-card-image-wrapper"">
+                <img class=""wf-link-to-content-card-image"" src=""https://www.hubspot.com/hubfs/books-1-1.svg"" alt="""" height=""81"" width=""80"" loading=""lazy"">
+            </div>
+          
+          <div class=""wf-link-to-content-card-text -alignment-center"">
+            <a class=""wf-link-to-content-card-text-link homepage-resources6"" href=""https://www.hubspot.com/resources?hubs_content-cta=homepage-resources6&amp;hubs_content=www.hubspot.com"">
+              
+
+  
+    <h3 class=""wf-link-to-content-card-text-heading "">Ebooks, Guides &amp; Templates</h3>
+  
+
+
+            </a>
+            
+              <div class=""wf-link-to-content-card-text-description"">
+                Check out our vast library of free resources, tools, templates, and more.
+              </div>
+            
+          </div>
+        </li>
+        
+      </ul>
+      
+        <div class=""wf-link-to-content-view-more"">
+          <button class=""cl-textLink -light -medium wf-link-to-content-view-more-button"">View more
+            
+          </button>
+        </div>
+      
+    </div>
+    
+    </div>
+  </section>
+
+  </div>
+
+<div id=""hs_cos_wrapper_homepage_cta_content_block"" class=""hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"" style="""" data-hs-cos-general-type=""widget"" data-hs-cos-type=""module"">
+
+
+
+
+
+  
+  
+  
+  
+  <section id=""homepage_cta_content_block"" class=""csol-section csol-cta-content-block - -white -padding-top-md -padding-bottom-md"">
+    <div class=""csol-section-wrapper"">
+      
+    
+    <div class=""csol-cta-content-block-container"">
+      <div class=""csol-cta-content-block-content"">
+        
+  
+    
+      <h2 class=""csol-cta-content-block-header"">Grow better with HubSpot today</h2>
+    
+  
+
+        <p class=""csol-cta-content-block-description""></p>
+
+        <div class=""csol-cta-content-block-buttons"">
+          
+            <div class=""csol-cta-content-block-button"">
+              
+  
+    
+  
+
+  
+
+  
+    
+  
+  
+  
+
+  
+  
+    <a class=""cl-button -primary -large -white homepage-bottom
+"" href=""https://offers.hubspot.com/crm-platform-demo?hubs_signup-cta=homepage-bottom&amp;hubs_signup-url=www.hubspot.com"" rel=""noreferrer "">
+      Get a demo
+      
+        <span class=""visually-hidden"">of HubSpot's premium software</span>
+      
+    </a>
+  
+
+
+
+  
+
+            </div>
+          
+            <div class=""csol-cta-content-block-button"">
+              
+  
+    
+  
+
+  
+
+  
+    
+  
+  
+  
+
+  
+  
+    <a class=""cl-button -secondary -large -white homepage-bottom2
+"" href=""https://app.hubspot.com/signup-hubspot/crm?hubs_signup-cta=homepage-bottom2&amp;hubs_signup-url=www.hubspot.com"" rel=""noreferrer "" data-hs-event-96027165=""1"">
+      Get started free
+      
+        <span class=""visually-hidden"">with HubSpot's free tools</span>
+      
+    </a>
+  
+
+
+
+  
+
+            </div>
+          
+        </div></div> ","ref=""https://www.hubspot.com/products/marketing/landing-pages?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Free%20Landing%20Page%20Builder"" data-order=""16"" data-linkorder=""15"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Free Landing Page Builder"">
+        Free Landing Page Builder</a>
+    </li>
+    <li class=""hsg-footer__nav-item"" data-order=""17"">
+      <a class=""ga_nav_link "" href=""https://www.hubspot.com/products/cms/web-hosting?hubs_content=www.hubspot.com/&amp;hubs_content-cta=Free%20Web%20Hosting"" data-order=""17"" data-linkorder=""16"" data-ga_nav_type=""footer_nav"" data-ga_nav_tree_text=""Popular Features > Free Web Hosting"">
+        Free Web Hosting</a>
+    </li>
+    </ul>
+</section>
+
+      </div>
+      <div class=""hsg-footer__nav-right"">
+        <div class class=""hsg-nav__group hsg-nav__group--cta"" role=""none"">
+            <li class=""hsg-nav__group-item hsg-nav__group-item--cta"" role=""none"">
+              
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+  
+
+  <div class=""header-nav__ctas "">
+    
+    <a class=""cl-button -primary -small -light ga_nav_link homepage-hp-nav "" href=""https://offers.hubspot.com/crm-platform-demo?hubs_signup-url=www.hubspot.com&amp;hubs_signup-cta=homepage-hp-nav"" data-ga_nav_type=""header_nav"" data-ga_nav_tree_text=""Get a demo"">
+      Get a demo <span class=""visually-hidden"">of HubSpot's premium software</span>
+    </a>
+    
+    
+      <a class=""cl-button -secondary -small -light ga_nav_link homepage-hp-nav2"" data-ga_nav_type=""header_nav"" data-ga_nav_tree_text=""Get started free"" href=""https://app.hubspot.com/signup-hubspot/crm?hubs_signup-url=www.hubspot.com&amp;hubs_signup-cta=homepage-hp-nav2"" data-hs-event-96027165=""1"">
+        Get started free <span class=""visually-hidden"">with HubSpot's free tools</span>
+      </a>
+    
+  </div>
+
+
+
+
+            </li>
+          </ul>
+
+          <ul class=""hs <div class=""hsg-nav__dropdown-column"">
+                        
+                          
+                            <div class=""hsg-nav__box-link-none"">
+                              <div class=""hsg-nav__header-container"">
+                                <h3 class=""hsg-nav__header"">The HubSpot Customer Platform</h3>
+                                <p class=""hsg-nav__subheader"">All of HubSpot’s marketing, sales, customer service, CMS, operations, and commerce software on one platform.</p>
+                              </div>
+                            </div>
+                          
+                        
+                          
+                          <a href=""https://www.hubspot.com/products/crm?hubs_content=www.hubspot.com/&amp;hubs_content-cta=nav-software-freecrm"" class=""ga_nav_link hsg-nav__box-link nav-software-freecrm"" data-ga_nav_type=""header_nav"" data-ga_nav_tree_text=""Software > Free HubSpot CRM"">
+                            <div class=""hsg-nav__header-container"">
+                              <h3 class=""hsg-nav__header hsg-nav__header-link"">Free HubSpot CRM</h3>
+                              <p class=""hsg-nav__subheader""></p>
+                            </div>
+                          </a>
+                          
+                        
+                          
+                          <a href=""https://www.hubspot.com/products/get-started?hubs_content=www.hubspot.com/&amp;hubs_content-cta=nav-software-platform"" class=""ga_nav_link hsg-nav__box-link nav-software-platform"" data-ga_nav_type=""header_nav"" data-ga_nav_tree_text=""Software > Overview of all products"">
+                            <div class=""hsg-nav__header-container"">
+                              <h3 class=""hsg-nav__header hsg-nav__header-link"">Overview of all products</h3>
+                              <p class=""hsg-nav__subheader""></p>
+                            </div>
+                          </a>
+                          
+                        
+                      </div>
+                    </li "
