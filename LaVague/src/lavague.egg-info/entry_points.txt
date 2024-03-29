@@ -1,0 +1,3 @@
+[console_scripts]
+lavague-build = lavague:build
+lavague-launch = lavague:launch

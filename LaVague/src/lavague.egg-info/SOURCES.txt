@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+src/lavague/__init__.py
+src/lavague/__main__.py
+src/lavague/action_engine.py
+src/lavague/command_center.py
+src/lavague/defaults.py
+src/lavague/prompts.py
+src/lavague/telemetry.py
+src/lavague/utils.py
+src/lavague.egg-info/PKG-INFO
+src/lavague.egg-info/SOURCES.txt
+src/lavague.egg-info/dependency_links.txt
+src/lavague.egg-info/entry_points.txt
+src/lavague.egg-info/requires.txt
+src/lavague.egg-info/top_level.txt
