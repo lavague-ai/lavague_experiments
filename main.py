@@ -77,11 +77,11 @@ Completion:
 
 # Based on the HTML, the link can be uniquely identified using the ID "searchBar"
 # Click on the search bar
-search_bar = page.locator('#searchBar')
-search_bar.click()
+search_bar = page.locator('#searchBar').first
+await search_bar.click()
 
 # Type 'selenium' into the search bar
-await page.type('#searchBar', 'selenium')
+await search_bar.type('selenium')
 
 # Press the 'Enter' key
 await page.keyboard.press('Enter')
@@ -117,14 +117,14 @@ Completion:
 
 # Based on the HTML, the first link the link can be uniquely identified using the ID "link1"
 # Let's use this ID with playwright to identify the link
-link1 = page.locator('#link1')
+link1 = page.locator('#link1').first
 
 # Then we click on the link
 await link1.click()
 
 # The other link can be uniquely identified using the class "link"
 # Let's use this class to identify the link
-link2 = page.locator('.link')
+link2 = page.locator('.link').first
 
 # Click on the element found
 await link2.click()
@@ -153,7 +153,7 @@ Completion:
 # Let's proceed step by step.
 
 # Select the third paragraph element
-third_paragraph = page.locator("(//p)[3]")
+third_paragraph = page.locator("(//p)[3]").first
 # Get the text inside the third paragraph
 text = third_paragraph.inner_text()
 ```
@@ -208,7 +208,7 @@ Completion:
 
 # Based on the HTML provided, we need to devise the best strategy to select the button.
 # The action button can be identified using the class name "action-btn"
-action_button = page.locator('.action-btn')
+action_button = page.locator('.action-btn').first
 
 # Then we can click on it
 await action_button.click()
@@ -222,34 +222,16 @@ Query: {query_str}
 Completion:
 '''
 
-api_key=os.getenv("AZURE_OPENAI_KEY")
-api_version="2023-05-15"
-azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
-model = "gpt-4"
-deployment_name = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-4-turbo")
-
-class LLM(AzureOpenAI):
-    def __init__(self):
-        super().__init__(
-            model=model,
-            deployment_name=deployment_name,
-            api_key=api_key,
-            azure_endpoint=azure_endpoint,
-            api_version=api_version,
-            temperature=0.0
-        )
-llm = LLM()
-
 # api_key=os.getenv("AZURE_OPENAI_KEY")
-# api_version="2024-02-15-preview"
+# api_version="2023-05-15"
 # azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
-# model = "gpt-35-turbo"
-# deployment_name = "gpt-35-turbo"
+# model = "gpt-4"
+# deployment_name = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-4-turbo")
 
 # class LLM(AzureOpenAI):
 #     def __init__(self):
 #         super().__init__(
-#             model=deployment_name,
+#             model=model,
 #             deployment_name=deployment_name,
 #             api_key=api_key,
 #             azure_endpoint=azure_endpoint,
@@ -257,6 +239,24 @@ llm = LLM()
 #             temperature=0.0
 #         )
 # llm = LLM()
+
+api_key=os.getenv("AZURE_OPENAI_KEY")
+api_version="2024-02-15-preview"
+azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
+model = "gpt-35-turbo"
+deployment_name = "gpt-35-turbo"
+
+class LLM(AzureOpenAI):
+    def __init__(self):
+        super().__init__(
+            model=deployment_name,
+            deployment_name=deployment_name,
+            api_key=api_key,
+            azure_endpoint=azure_endpoint,
+            api_version=api_version,
+            temperature=0.0
+        )
+llm = LLM()
 
 embedder = DefaultEmbedder()
 
@@ -301,8 +301,8 @@ def get_retriever_recursive(embed, html):
     return retriever_recursive
 
 action_engine = ActionEngine(llm, embedder, streaming=False, prompt_template=DEFAULT_PLAYWRIGHT_PROMPT)
-get_retriever = get_retriever_recursive
-# get_retriever = get_retriever_code
+# get_retriever = get_retriever_recursive
+get_retriever = get_retriever_code
 
 app = FastAPI()
 
@@ -360,7 +360,7 @@ async def process_fat_node(input_data: InputData):
     
     context_str = source_nodes[0] = "\n".join(source_nodes)
     prompt = DEFAULT_PLAYWRIGHT_PROMPT.format(context_str=context_str, query_str=query_str)
-
+    # prompt = DEFAULT_PROMPT.format(context_str=context_str, query_str=query_str)
     
     start_time = time.time()
 
